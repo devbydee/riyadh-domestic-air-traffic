@@ -1,0 +1,1709 @@
+﻿Side,Type,Year,Month,DESTINATION City,Total of Flights,Total of Passengers
+IN,Domestic,2021,Jan,Riyadh,4080,458875
+OUT,Domestic,2021,Jan,Abha,403,45246
+OUT,Domestic,2021,Jan,Al-Jawf,122,11344
+OUT,Domestic,2021,Jan,Al-Ula,18,1187
+OUT,Domestic,2021,Jan,Arar,109,9765
+OUT,Domestic,2021,Jan,Bisha,95,9800
+OUT,Domestic,2021,Jan,Dammam,400,37922
+OUT,Domestic,2021,Jan,Al-Bahah,61,6577
+OUT,Domestic,2021,Jan,"	Qassim",43,3802
+OUT,Domestic,2021,Jan,Jizan,339,33370
+OUT,Domestic,2021,Jan,Qurayyat,79,6206
+OUT,Domestic,2021,Jan,Hafr Al-batin,60,5999
+OUT,Domestic,2021,Jan,Hail,154,15058
+OUT,Domestic,2021,Jan,Jeddah,1213,161173
+OUT,Domestic,2021,Jan,Madinah,323,30349
+OUT,Domestic,2021,Jan,Najran,118,12111
+OUT,Domestic,2021,Jan,Rafha,21,2201
+OUT,Domestic,2021,Jan,Sharurah,40,4109
+OUT,Domestic,2021,Jan,Tabuk,232,22285
+OUT,Domestic,2021,Jan,Taif,152,15724
+OUT,Domestic,2021,Jan,Turaif,26,2152
+OUT,Domestic,2021,Jan,WADI AL-DAWASER,31,2739
+OUT,Domestic,2021,Jan,Al Wajh,10,582
+OUT,Domestic,2021,Jan,Yenbo,31,3249
+IN,Domestic,2021,Feb,Riyadh,3584,344328
+OUT,Domestic,2021,Feb,Abha,387,36110
+OUT,Domestic,2021,Feb,Al-Jawf,111,9572
+OUT,Domestic,2021,Feb,Al-Ula,20,1439
+OUT,Domestic,2021,Feb,Arar,82,7547
+OUT,Domestic,2021,Feb,Bisha,72,6750
+OUT,Domestic,2021,Feb,Dammam,340,25905
+OUT,Domestic,2021,Feb,Al-Bahah,55,4735
+OUT,Domestic,2021,Feb,"	Qassim",41,2875
+OUT,Domestic,2021,Feb,Jizan,332,27049
+OUT,Domestic,2021,Feb,Qurayyat,55,4564
+OUT,Domestic,2021,Feb,Hafr Al-batin,50,4470
+OUT,Domestic,2021,Feb,Hail,135,11769
+OUT,Domestic,2021,Feb,Jeddah,1060,116166
+OUT,Domestic,2021,Feb,Madinah,244,21596
+OUT,Domestic,2021,Feb,Najran,109,10157
+OUT,Domestic,2021,Feb,Rafha,20,1871
+OUT,Domestic,2021,Feb,Sharurah,35,2941
+OUT,Domestic,2021,Feb,Tabuk,210,18124
+OUT,Domestic,2021,Feb,Taif,138,11116
+OUT,Domestic,2021,Feb,Turaif,24,1742
+OUT,Domestic,2021,Feb,WADI AL-DAWASER,28,2188
+OUT,Domestic,2021,Feb,Al Wajh,8,419
+OUT,Domestic,2021,Feb,Yenbo,28,2470
+IN,Domestic,2021,Mar,Riyadh,3857,411554
+OUT,Domestic,2021,Mar,Abha,435,44057
+OUT,Domestic,2021,Mar,Al-Jawf,123,11424
+OUT,Domestic,2021,Mar,Al-Ula,30,2406
+OUT,Domestic,2021,Mar,Arar,90,8808
+OUT,Domestic,2021,Mar,Bisha,77,7867
+OUT,Domestic,2021,Mar,Dammam,338,30215
+OUT,Domestic,2021,Mar,Al-Bahah,62,5972
+OUT,Domestic,2021,Mar,"	Qassim",43,3568
+OUT,Domestic,2021,Mar,Jizan,370,32863
+OUT,Domestic,2021,Mar,Qurayyat,62,5572
+OUT,Domestic,2021,Mar,Hafr Al-batin,61,5608
+OUT,Domestic,2021,Mar,Hail,123,12122
+OUT,Domestic,2021,Mar,Jeddah,1099,140252
+OUT,Domestic,2021,Mar,Madinah,274,26456
+OUT,Domestic,2021,Mar,Najran,115,11044
+OUT,Domestic,2021,Mar,Rafha,22,2195
+OUT,Domestic,2021,Mar,Sharurah,40,3781
+OUT,Domestic,2021,Mar,Tabuk,236,21888
+OUT,Domestic,2021,Mar,Taif,154,13613
+OUT,Domestic,2021,Mar,Turaif,26,2118
+OUT,Domestic,2021,Mar,WADI AL-DAWASER,31,2296
+OUT,Domestic,2021,Mar,Al Wajh,8,505
+OUT,Domestic,2021,Mar,Yenbo,31,3055
+IN,Domestic,2021,Apr,Riyadh,3896,357632
+OUT,Domestic,2021,Apr,Abha,355,37774
+OUT,Domestic,2021,Apr,Al-Jawf,119,9310
+OUT,Domestic,2021,Apr,Al-Ula,27,1544
+OUT,Domestic,2021,Apr,Arar,76,7101
+OUT,Domestic,2021,Apr,Bisha,60,5853
+OUT,Domestic,2021,Apr,Dammam,354,27671
+OUT,Domestic,2021,Apr,Al-Bahah,59,4854
+OUT,Domestic,2021,Apr,"	Qassim",42,2624
+OUT,Domestic,2021,Apr,Jizan,351,28333
+OUT,Domestic,2021,Apr,Qurayyat,58,4284
+OUT,Domestic,2021,Apr,Hafr Al-batin,71,5050
+OUT,Domestic,2021,Apr,Hail,135,10223
+OUT,Domestic,2021,Apr,Jeddah,1274,157659
+OUT,Domestic,2021,Apr,Madinah,310,25552
+OUT,Domestic,2021,Apr,Najran,112,9149
+OUT,Domestic,2021,Apr,Rafha,30,2215
+OUT,Domestic,2021,Apr,Sharurah,37,3001
+OUT,Domestic,2021,Apr,Tabuk,191,17512
+OUT,Domestic,2021,Apr,Taif,145,14184
+OUT,Domestic,2021,Apr,Turaif,26,1909
+OUT,Domestic,2021,Apr,WADI AL-DAWASER,30,2178
+OUT,Domestic,2021,Apr,Al Wajh,9,500
+OUT,Domestic,2021,Apr,Yenbo,29,2389
+IN,Domestic,2021,May,Riyadh,4302,417104
+OUT,Domestic,2021,May,Abha,426,50130
+OUT,Domestic,2021,May,Al-Jawf,123,8841
+OUT,Domestic,2021,May,Al-Ula,23,1226
+OUT,Domestic,2021,May,Arar,79,6807
+OUT,Domestic,2021,May,Bisha,80,7948
+OUT,Domestic,2021,May,Dammam,423,31789
+OUT,Domestic,2021,May,Al-Bahah,65,6813
+OUT,Domestic,2021,May,"	Qassim",46,3227
+OUT,Domestic,2021,May,Jizan,389,29721
+OUT,Domestic,2021,May,Qurayyat,62,4755
+OUT,Domestic,2021,May,Hafr Al-batin,76,5946
+OUT,Domestic,2021,May,Hail,154,11319
+OUT,Domestic,2021,May,Jeddah,1334,152595
+OUT,Domestic,2021,May,Madinah,334,28100
+OUT,Domestic,2021,May,Najran,120,10041
+OUT,Domestic,2021,May,Rafha,32,2389
+OUT,Domestic,2021,May,Sharurah,43,3470
+OUT,Domestic,2021,May,Tabuk,215,18021
+OUT,Domestic,2021,May,Taif,178,17218
+OUT,Domestic,2021,May,Turaif,26,1826
+OUT,Domestic,2021,May,WADI AL-DAWASER,31,2335
+OUT,Domestic,2021,May,Al Wajh,9,700
+OUT,Domestic,2021,May,Yenbo,31,2761
+IN,Domestic,2021,Jun,Riyadh,4280,454182
+OUT,Domestic,2021,Jun,Abha,498,70348
+OUT,Domestic,2021,Jun,Al-Jawf,115,11300
+OUT,Domestic,2021,Jun,Al-Ula,21,1195
+OUT,Domestic,2021,Jun,Arar,77,8081
+OUT,Domestic,2021,Jun,Bisha,77,8405
+OUT,Domestic,2021,Jun,Dammam,391,34910
+OUT,Domestic,2021,Jun,Al-Bahah,96,10214
+OUT,Domestic,2021,Jun,"	Qassim",60,4320
+OUT,Domestic,2021,Jun,Jizan,391,32802
+OUT,Domestic,2021,Jun,Qurayyat,60,6638
+OUT,Domestic,2021,Jun,Hafr Al-batin,73,6439
+OUT,Domestic,2021,Jun,Hail,149,13379
+OUT,Domestic,2021,Jun,Jeddah,1305,150477
+OUT,Domestic,2021,Jun,Madinah,297,28214
+OUT,Domestic,2021,Jun,Najran,102,10253
+OUT,Domestic,2021,Jun,Rafha,30,2743
+OUT,Domestic,2021,Jun,Sharurah,43,3688
+OUT,Domestic,2021,Jun,Tabuk,206,20914
+OUT,Domestic,2021,Jun,Taif,209,20900
+OUT,Domestic,2021,Jun,Turaif,27,2410
+OUT,Domestic,2021,Jun,WADI AL-DAWASER,30,2569
+OUT,Domestic,2021,Jun,Al Wajh,8,654
+OUT,Domestic,2021,Jun,Yenbo,47,3632
+IN,Domestic,2021,Jul,Riyadh,4422,442032
+OUT,Domestic,2021,Jul,Abha,525,68036
+OUT,Domestic,2021,Jul,Al-Jawf,122,11244
+OUT,Domestic,2021,Jul,Al-Ula,18,1147
+OUT,Domestic,2021,Jul,Arar,79,7833
+OUT,Domestic,2021,Jul,Bisha,76,7756
+OUT,Domestic,2021,Jul,Dammam,396,34158
+OUT,Domestic,2021,Jul,Al-Bahah,93,9785
+OUT,Domestic,2021,Jul,"	Qassim",62,5106
+OUT,Domestic,2021,Jul,Jizan,398,35915
+OUT,Domestic,2021,Jul,Qurayyat,61,6145
+OUT,Domestic,2021,Jul,Hafr Al-batin,75,6876
+OUT,Domestic,2021,Jul,Hail,154,12960
+OUT,Domestic,2021,Jul,Jeddah,1329,151473
+OUT,Domestic,2021,Jul,Madinah,287,26755
+OUT,Domestic,2021,Jul,Najran,119,10584
+OUT,Domestic,2021,Jul,Rafha,31,2904
+OUT,Domestic,2021,Jul,Sharurah,40,3816
+OUT,Domestic,2021,Jul,Tabuk,229,22026
+OUT,Domestic,2021,Jul,Taif,215,21395
+OUT,Domestic,2021,Jul,Turaif,29,2545
+OUT,Domestic,2021,Jul,WADI AL-DAWASER,30,2678
+OUT,Domestic,2021,Jul,Al Wajh,9,670
+OUT,Domestic,2021,Jul,Yenbo,48,3576
+IN,Domestic,2021,Aug,Riyadh,4492,508587
+OUT,Domestic,2021,Aug,Abha,596,54875
+OUT,Domestic,2021,Aug,Al-Jawf,124,11432
+OUT,Domestic,2021,Aug,Al-Ula,18,1163
+OUT,Domestic,2021,Aug,Arar,80,8109
+OUT,Domestic,2021,Aug,Bisha,86,6889
+OUT,Domestic,2021,Aug,Dammam,412,40702
+OUT,Domestic,2021,Aug,Al-Bahah,94,6415
+OUT,Domestic,2021,Aug,"	Qassim",62,4821
+OUT,Domestic,2021,Aug,Jizan,402,31047
+OUT,Domestic,2021,Aug,Qurayyat,62,4961
+OUT,Domestic,2021,Aug,Hafr Al-batin,74,7109
+OUT,Domestic,2021,Aug,Hail,161,12352
+OUT,Domestic,2021,Aug,Jeddah,1301,154686
+OUT,Domestic,2021,Aug,Madinah,274,25489
+OUT,Domestic,2021,Aug,Najran,119,10776
+OUT,Domestic,2021,Aug,Rafha,31,2666
+OUT,Domestic,2021,Aug,Sharurah,45,3596
+OUT,Domestic,2021,Aug,Tabuk,217,21505
+OUT,Domestic,2021,Aug,Taif,216,18655
+OUT,Domestic,2021,Aug,Turaif,26,2225
+OUT,Domestic,2021,Aug,WADI AL-DAWASER,31,2276
+OUT,Domestic,2021,Aug,Al Wajh,9,551
+OUT,Domestic,2021,Aug,Yenbo,48,3413
+IN,Domestic,2021,Sep,Riyadh,4224,453465
+OUT,Domestic,2021,Sep,Abha,471,45908
+OUT,Domestic,2021,Sep,Al-Jawf,116,11167
+OUT,Domestic,2021,Sep,Al-Ula,34,1878
+OUT,Domestic,2021,Sep,Arar,77,8233
+OUT,Domestic,2021,Sep,Bisha,78,7257
+OUT,Domestic,2021,Sep,Dammam,422,40603
+OUT,Domestic,2021,Sep,Al-Bahah,85,5980
+OUT,Domestic,2021,Sep,"	Qassim",61,5443
+OUT,Domestic,2021,Sep,Jizan,365,29391
+OUT,Domestic,2021,Sep,Qurayyat,60,5277
+OUT,Domestic,2021,Sep,Hafr Al-batin,76,7296
+OUT,Domestic,2021,Sep,Hail,162,13104
+OUT,Domestic,2021,Sep,Jeddah,1220,160858
+OUT,Domestic,2021,Sep,Madinah,271,27657
+OUT,Domestic,2021,Sep,Najran,120,11845
+OUT,Domestic,2021,Sep,NEOM,2,48
+OUT,Domestic,2021,Sep,Rafha,30,2591
+OUT,Domestic,2021,Sep,Sharurah,33,2935
+OUT,Domestic,2021,Sep,Tabuk,209,21858
+OUT,Domestic,2021,Sep,Taif,201,15719
+OUT,Domestic,2021,Sep,Turaif,26,2192
+OUT,Domestic,2021,Sep,WADI AL-DAWASER,30,2446
+OUT,Domestic,2021,Sep,Al Wajh,9,623
+OUT,Domestic,2021,Sep,Yenbo,48,3569
+IN,Domestic,2021,Oct,Riyadh,4426,522887
+OUT,Domestic,2021,Oct,Abha,467,54668
+OUT,Domestic,2021,Oct,Al-Jawf,114,12531
+OUT,Domestic,2021,Oct,Al-Ula,37,2835
+OUT,Domestic,2021,Oct,Arar,80,9116
+OUT,Domestic,2021,Oct,Bisha,80,7906
+OUT,Domestic,2021,Oct,Dammam,386,45372
+OUT,Domestic,2021,Oct,Al-Bahah,79,6520
+OUT,Domestic,2021,Oct,"	Qassim",62,6140
+OUT,Domestic,2021,Oct,Jizan,400,35593
+OUT,Domestic,2021,Oct,Qurayyat,61,6050
+OUT,Domestic,2021,Oct,Hafr Al-batin,75,7876
+OUT,Domestic,2021,Oct,Hail,145,14585
+OUT,Domestic,2021,Oct,Jeddah,1319,184635
+OUT,Domestic,2021,Oct,Madinah,343,35911
+OUT,Domestic,2021,Oct,Najran,153,15492
+OUT,Domestic,2021,Oct,NEOM,9,480
+OUT,Domestic,2021,Oct,Rafha,31,2878
+OUT,Domestic,2021,Oct,Sharurah,36,3498
+OUT,Domestic,2021,Oct,Tabuk,239,26080
+OUT,Domestic,2021,Oct,Taif,221,18737
+OUT,Domestic,2021,Oct,Turaif,27,2549
+OUT,Domestic,2021,Oct,WADI AL-DAWASER,28,2555
+OUT,Domestic,2021,Oct,Al Wajh,9,675
+OUT,Domestic,2021,Oct,Yenbo,56,4100
+IN,Domestic,2021,Nov,Riyadh,4521,593297
+OUT,Domestic,2021,Nov,Abha,417,58243
+OUT,Domestic,2021,Nov,Al-Jawf,120,13148
+OUT,Domestic,2021,Nov,Al-Ula,37,3397
+OUT,Domestic,2021,Nov,Arar,77,9146
+OUT,Domestic,2021,Nov,Bisha,77,8600
+OUT,Domestic,2021,Nov,Dammam,424,48958
+OUT,Domestic,2021,Nov,Al-Bahah,60,6851
+OUT,Domestic,2021,Nov,"	Qassim",60,6510
+OUT,Domestic,2021,Nov,Jizan,413,40791
+OUT,Domestic,2021,Nov,Qurayyat,60,6443
+OUT,Domestic,2021,Nov,Hafr Al-batin,72,7725
+OUT,Domestic,2021,Nov,Hail,152,15822
+OUT,Domestic,2021,Nov,Jeddah,1433,223648
+OUT,Domestic,2021,Nov,Madinah,339,41093
+OUT,Domestic,2021,Nov,Najran,150,16834
+OUT,Domestic,2021,Nov,NEOM,8,506
+OUT,Domestic,2021,Nov,Rafha,30,3171
+OUT,Domestic,2021,Nov,Sharurah,45,4624
+OUT,Domestic,2021,Nov,Tabuk,261,27506
+OUT,Domestic,2021,Nov,Taif,218,21880
+OUT,Domestic,2021,Nov,Turaif,25,2459
+OUT,Domestic,2021,Nov,WADI AL-DAWASER,34,3271
+OUT,Domestic,2021,Nov,Al Wajh,8,595
+OUT,Domestic,2021,Nov,Yenbo,37,4105
+IN,Domestic,2021,Dec,Riyadh,4610,614928
+OUT,Domestic,2021,Dec,Abha,467,67577
+OUT,Domestic,2021,Dec,Al-Jawf,122,14094
+OUT,Domestic,2021,Dec,Al-Ula,52,4564
+OUT,Domestic,2021,Dec,Arar,79,9867
+OUT,Domestic,2021,Dec,Bisha,79,9477
+OUT,Domestic,2021,Dec,Dammam,377,49120
+OUT,Domestic,2021,Dec,Al-Bahah,62,6767
+OUT,Domestic,2021,Dec,"	Qassim",62,6439
+OUT,Domestic,2021,Dec,Jizan,427,45662
+OUT,Domestic,2021,Dec,Qurayyat,62,6751
+OUT,Domestic,2021,Dec,Hafr Al-batin,68,7966
+OUT,Domestic,2021,Dec,Hail,155,16457
+OUT,Domestic,2021,Dec,Jeddah,1458,237820
+OUT,Domestic,2021,Dec,Madinah,343,44934
+OUT,Domestic,2021,Dec,Najran,149,19677
+OUT,Domestic,2021,Dec,NEOM,9,370
+OUT,Domestic,2021,Dec,Rafha,26,3013
+OUT,Domestic,2021,Dec,Sharurah,43,4973
+OUT,Domestic,2021,Dec,Tabuk,266,31117
+OUT,Domestic,2021,Dec,Taif,226,25145
+OUT,Domestic,2021,Dec,Turaif,27,2738
+OUT,Domestic,2021,Dec,WADI AL-DAWASER,35,3217
+OUT,Domestic,2021,Dec,Al Wajh,13,782
+OUT,Domestic,2021,Dec,Yenbo,40,4074
+IN,Domestic,2022,Jan,Riyadh,4639,605418
+OUT,Domestic,2022,Jan,Abha,533,66849
+OUT,Domestic,2022,Jan,Al-Jawf,120,13026
+OUT,Domestic,2022,Jan,Al-Ula,48,4967
+OUT,Domestic,2022,Jan,Arar,79,9336
+OUT,Domestic,2022,Jan,Bisha,81,9360
+OUT,Domestic,2022,Jan,Dammam,416,47447
+OUT,Domestic,2022,Jan,Al-Bahah,54,5867
+OUT,Domestic,2022,Jan,Hafr Al-batin,67,7903
+OUT,Domestic,2022,Jan,Hail,157,15588
+OUT,Domestic,2022,Jan,Jeddah,1383,209156
+OUT,Domestic,2022,Jan,Jizan,401,47081
+OUT,Domestic,2022,Jan,Madinah,340,40206
+OUT,Domestic,2022,Jan,Najran,151,18993
+OUT,Domestic,2022,Jan,NEOM,9,655
+OUT,Domestic,2022,Jan,Qassim,62,6405
+OUT,Domestic,2022,Jan,Qurayyat,62,6513
+OUT,Domestic,2022,Jan,Rafha,31,3504
+OUT,Domestic,2022,Jan,Sharurah,53,4935
+OUT,Domestic,2022,Jan,Tabuk,258,30330
+OUT,Domestic,2022,Jan,Taif,248,25201
+OUT,Domestic,2022,Jan,Turaif,22,2436
+OUT,Domestic,2022,Jan,WADI AL-DAWASER,36,3598
+OUT,Domestic,2022,Jan,Al Wajh,13,818
+OUT,Domestic,2022,Jan,Yenbo,31,3677
+IN,Domestic,2022,Feb,Riyadh,4223,538716
+OUT,Domestic,2022,Feb,Abha,494,59362
+OUT,Domestic,2022,Feb,Al-Jawf,110,12210
+OUT,Domestic,2022,Feb,Al-Ula,42,4466
+OUT,Domestic,2022,Feb,Arar,72,8652
+OUT,Domestic,2022,Feb,Bisha,72,7718
+OUT,Domestic,2022,Feb,Dammam,332,42248
+OUT,Domestic,2022,Feb,Al-Bahah,44,4542
+OUT,Domestic,2022,Feb,Hafr Al-batin,68,7558
+OUT,Domestic,2022,Feb,Hail,133,14550
+OUT,Domestic,2022,Feb,Jeddah,1288,201400
+OUT,Domestic,2022,Feb,Jizan,359,37243
+OUT,Domestic,2022,Feb,Madinah,298,38191
+OUT,Domestic,2022,Feb,Najran,136,16363
+OUT,Domestic,2022,Feb,NEOM,8,365
+OUT,Domestic,2022,Feb,Qassim,56,6036
+OUT,Domestic,2022,Feb,Qurayyat,56,6021
+OUT,Domestic,2022,Feb,Rafha,28,2940
+OUT,Domestic,2022,Feb,Sharurah,49,4199
+OUT,Domestic,2022,Feb,Tabuk,252,26478
+OUT,Domestic,2022,Feb,Taif,222,21944
+OUT,Domestic,2022,Feb,Turaif,24,2449
+OUT,Domestic,2022,Feb,WADI AL-DAWASER,32,3194
+OUT,Domestic,2022,Feb,Al Wajh,12,858
+OUT,Domestic,2022,Feb,Yenbo,28,3404
+IN,Domestic,2022,Mar,Riyadh,4735,685481
+OUT,Domestic,2022,Mar,Abha,552,80658
+OUT,Domestic,2022,Mar,Al-Jawf,123,16304
+OUT,Domestic,2022,Mar,Al-Ula,41,4660
+OUT,Domestic,2022,Mar,Arar,78,10494
+OUT,Domestic,2022,Mar,Bisha,80,10678
+OUT,Domestic,2022,Mar,Dammam,384,52646
+OUT,Domestic,2022,Mar,Al-Bahah,56,6914
+OUT,Domestic,2022,Mar,Hafr Al-batin,72,9180
+OUT,Domestic,2022,Mar,Hail,151,18316
+OUT,Domestic,2022,Mar,Jeddah,1482,259183
+OUT,Domestic,2022,Mar,Jizan,396,50206
+OUT,Domestic,2022,Mar,Madinah,347,48668
+OUT,Domestic,2022,Mar,Najran,149,20692
+OUT,Domestic,2022,Mar,NEOM,9,531
+OUT,Domestic,2022,Mar,Qassim,62,7531
+OUT,Domestic,2022,Mar,Qurayyat,62,8007
+OUT,Domestic,2022,Mar,Rafha,31,3890
+OUT,Domestic,2022,Mar,Sharurah,52,5800
+OUT,Domestic,2022,Mar,Tabuk,275,33980
+OUT,Domestic,2022,Mar,Taif,254,29639
+OUT,Domestic,2022,Mar,Turaif,27,3114
+OUT,Domestic,2022,Mar,WADI AL-DAWASER,35,4336
+OUT,Domestic,2022,Mar,Al Wajh,14,1158
+OUT,Domestic,2022,Mar,Yenbo,30,4078
+IN,Domestic,2022,Apr,Riyadh,4623,507431
+OUT,Domestic,2022,Apr,Abha,428,51553
+OUT,Domestic,2022,Apr,Al-Jawf,116,10770
+OUT,Domestic,2022,Apr,Al-Ula,17,1593
+OUT,Domestic,2022,Apr,Arar,80,7719
+OUT,Domestic,2022,Apr,Bisha,76,7854
+OUT,Domestic,2022,Apr,Dammam,405,32817
+OUT,Domestic,2022,Apr,Al-Bahah,56,5716
+OUT,Domestic,2022,Apr,Hafr Al-batin,59,6119
+OUT,Domestic,2022,Apr,Hail,141,13472
+OUT,Domestic,2022,Apr,Jeddah,1636,286502
+OUT,Domestic,2022,Apr,Jizan,332,39001
+OUT,Domestic,2022,Apr,Madinah,358,48907
+OUT,Domestic,2022,Apr,Najran,148,15362
+OUT,Domestic,2022,Apr,NEOM,9,285
+OUT,Domestic,2022,Apr,Qassim,60,5191
+OUT,Domestic,2022,Apr,Qurayyat,59,6180
+OUT,Domestic,2022,Apr,Rafha,25,2511
+OUT,Domestic,2022,Apr,Sharurah,52,4301
+OUT,Domestic,2022,Apr,Tabuk,242,22341
+OUT,Domestic,2022,Apr,Taif,239,32825
+OUT,Domestic,2022,Apr,Turaif,27,2122
+OUT,Domestic,2022,Apr,WADI AL-DAWASER,30,3150
+OUT,Domestic,2022,Apr,Al Wajh,12,765
+OUT,Domestic,2022,Apr,Yenbo,30,2873
+IN,Domestic,2022,May,Riyadh,4691,661126
+OUT,Domestic,2022,May,Abha,547,64156
+OUT,Domestic,2022,May,Al-Jawf,122,12474
+OUT,Domestic,2022,May,Al-Ula,18,1862
+OUT,Domestic,2022,May,Arar,84,9229
+OUT,Domestic,2022,May,Bisha,80,8310
+OUT,Domestic,2022,May,Dammam,422,50901
+OUT,Domestic,2022,May,Al-Bahah,76,6375
+OUT,Domestic,2022,May,Hafr Al-batin,57,6852
+OUT,Domestic,2022,May,Hail,178,16930
+OUT,Domestic,2022,May,Jeddah,1464,198473
+OUT,Domestic,2022,May,Jizan,371,37854
+OUT,Domestic,2022,May,Madinah,348,36782
+OUT,Domestic,2022,May,Najran,148,18761
+OUT,Domestic,2022,May,NEOM,13,824
+OUT,Domestic,2022,May,Qassim,60,5836
+OUT,Domestic,2022,May,Qurayyat,62,6523
+OUT,Domestic,2022,May,Rafha,26,2747
+OUT,Domestic,2022,May,Sharurah,52,5168
+OUT,Domestic,2022,May,Tabuk,248,29178
+OUT,Domestic,2022,May,Taif,221,20890
+OUT,Domestic,2022,May,Turaif,27,2424
+OUT,Domestic,2022,May,WADI AL-DAWASER,31,3404
+OUT,Domestic,2022,May,Al Wajh,14,953
+OUT,Domestic,2022,May,Yenbo,31,3289
+IN,Domestic,2022,Jun,Riyadh,4545,542449
+OUT,Domestic,2022,Jun,Abha,503,74295
+OUT,Domestic,2022,Jun,Al-Jawf,118,12874
+OUT,Domestic,2022,Jun,Al-Ula,18,1801
+OUT,Domestic,2022,Jun,Arar,81,9677
+OUT,Domestic,2022,Jun,Bisha,76,9578
+OUT,Domestic,2022,Jun,Dammam,407,48515
+OUT,Domestic,2022,Jun,Al-Bahah,72,7729
+OUT,Domestic,2022,Jun,Hafr Al-batin,60,7423
+OUT,Domestic,2022,Jun,Hail,168,17896
+OUT,Domestic,2022,Jun,Jeddah,1408,221486
+OUT,Domestic,2022,Jun,Jizan,377,42341
+OUT,Domestic,2022,Jun,Madinah,327,39221
+OUT,Domestic,2022,Jun,Najran,151,20196
+OUT,Domestic,2022,Jun,NEOM,13,1271
+OUT,Domestic,2022,Jun,Qassim,60,5763
+OUT,Domestic,2022,Jun,Qurayyat,60,8443
+OUT,Domestic,2022,Jun,Rafha,26,3153
+OUT,Domestic,2022,Jun,Sharurah,51,5082
+OUT,Domestic,2022,Jun,Tabuk,241,29183
+OUT,Domestic,2022,Jun,Taif,232,23164
+OUT,Domestic,2022,Jun,Turaif,25,2702
+OUT,Domestic,2022,Jun,WADI AL-DAWASER,30,3385
+OUT,Domestic,2022,Jun,Al Wajh,13,1204
+OUT,Domestic,2022,Jun,Yenbo,30,3404
+IN,Domestic,2022,Jul,Riyadh,4531,585731
+OUT,Domestic,2022,Jul,Abha,566,96038
+OUT,Domestic,2022,Jul,Al-Jawf,123,13133
+OUT,Domestic,2022,Jul,Al-Ula,23,1890
+OUT,Domestic,2022,Jul,Arar,83,9325
+OUT,Domestic,2022,Jul,Bisha,79,10090
+OUT,Domestic,2022,Jul,Dammam,388,40091
+OUT,Domestic,2022,Jul,Al-Bahah,90,11865
+OUT,Domestic,2022,Jul,Hafr Al-batin,62,7562
+OUT,Domestic,2022,Jul,Hail,151,15281
+OUT,Domestic,2022,Jul,Jeddah,1393,217227
+OUT,Domestic,2022,Jul,Jizan,371,44272
+OUT,Domestic,2022,Jul,Madinah,307,39203
+OUT,Domestic,2022,Jul,Najran,149,19714
+OUT,Domestic,2022,Jul,NEOM,13,1153
+OUT,Domestic,2022,Jul,Qassim,63,5258
+OUT,Domestic,2022,Jul,Qurayyat,62,8479
+OUT,Domestic,2022,Jul,Rafha,26,2990
+OUT,Domestic,2022,Jul,Sharurah,53,5955
+OUT,Domestic,2022,Jul,Tabuk,254,28790
+OUT,Domestic,2022,Jul,Taif,213,28481
+OUT,Domestic,2022,Jul,Turaif,27,2896
+OUT,Domestic,2022,Jul,WADI AL-DAWASER,31,3212
+OUT,Domestic,2022,Jul,Al Wajh,13,981
+OUT,Domestic,2022,Jul,Yenbo,31,3043
+IN,Domestic,2022,Aug,Riyadh,4638,759899
+OUT,Domestic,2022,Aug,Abha,566,83122
+OUT,Domestic,2022,Aug,Al-Jawf,124,15367
+OUT,Domestic,2022,Aug,Al-Ula,20,2051
+OUT,Domestic,2022,Aug,Arar,89,11022
+OUT,Domestic,2022,Aug,Bisha,80,8969
+OUT,Domestic,2022,Aug,Dammam,380,53306
+OUT,Domestic,2022,Aug,Al-Bahah,92,9447
+OUT,Domestic,2022,Aug,Hafr Al-batin,62,8120
+OUT,Domestic,2022,Aug,Hail,155,17831
+OUT,Domestic,2022,Aug,Jeddah,1428,247779
+OUT,Domestic,2022,Aug,Jizan,396,47516
+OUT,Domestic,2022,Aug,Madinah,331,46854
+OUT,Domestic,2022,Aug,Najran,150,20833
+OUT,Domestic,2022,Aug,NEOM,13,1599
+OUT,Domestic,2022,Aug,Qassim,66,6969
+OUT,Domestic,2022,Aug,Qurayyat,62,7219
+OUT,Domestic,2022,Aug,Rafha,31,3671
+OUT,Domestic,2022,Aug,Sharurah,55,5907
+OUT,Domestic,2022,Aug,Tabuk,248,33883
+OUT,Domestic,2022,Aug,Taif,215,28846
+OUT,Domestic,2022,Aug,Turaif,26,2749
+OUT,Domestic,2022,Aug,WADI AL-DAWASER,31,3431
+OUT,Domestic,2022,Aug,Al Wajh,13,1210
+OUT,Domestic,2022,Aug,Yenbo,32,3887
+IN,Domestic,2022,Sep,Riyadh,4474,606116
+OUT,Domestic,2022,Sep,Abha,523,62334
+OUT,Domestic,2022,Sep,Al-Jawf,112,13498
+OUT,Domestic,2022,Sep,Al-Ula,23,2535
+OUT,Domestic,2022,Sep,Arar,85,9817
+OUT,Domestic,2022,Sep,Bisha,72,8394
+OUT,Domestic,2022,Sep,Dammam,391,49993
+OUT,Domestic,2022,Sep,Al-Bahah,73,6584
+OUT,Domestic,2022,Sep,Hafr Al-batin,60,7608
+OUT,Domestic,2022,Sep,Hail,147,16580
+OUT,Domestic,2022,Sep,Jeddah,1422,216785
+OUT,Domestic,2022,Sep,Jizan,374,39973
+OUT,Domestic,2022,Sep,Madinah,335,42210
+OUT,Domestic,2022,Sep,Najran,143,18876
+OUT,Domestic,2022,Sep,NEOM,13,1492
+OUT,Domestic,2022,Sep,Qassim,60,5967
+OUT,Domestic,2022,Sep,Qurayyat,57,6994
+OUT,Domestic,2022,Sep,Rafha,27,3407
+OUT,Domestic,2022,Sep,Sharurah,52,4950
+OUT,Domestic,2022,Sep,Tabuk,220,29218
+OUT,Domestic,2022,Sep,Taif,212,22865
+OUT,Domestic,2022,Sep,Turaif,26,2508
+OUT,Domestic,2022,Sep,WADI AL-DAWASER,26,3323
+OUT,Domestic,2022,Sep,Al Wajh,9,890
+OUT,Domestic,2022,Sep,Yenbo,26,3279
+IN,Domestic,2022,Oct,Riyadh,4501,635640
+OUT,Domestic,2022,Oct,Abha,541,67594
+OUT,Domestic,2022,Oct,Al-Jawf,113,13820
+OUT,Domestic,2022,Oct,Al-Ula,22,2784
+OUT,Domestic,2022,Oct,Arar,90,10365
+OUT,Domestic,2022,Oct,Bisha,71,8597
+OUT,Domestic,2022,Oct,Dammam,412,53509
+OUT,Domestic,2022,Oct,Al-Bahah,58,6142
+OUT,Domestic,2022,Oct,Hafr Al-batin,62,7906
+OUT,Domestic,2022,Oct,Hail,152,17036
+OUT,Domestic,2022,Oct,Jeddah,1412,228678
+OUT,Domestic,2022,Oct,Jizan,371,42914
+OUT,Domestic,2022,Oct,Madinah,331,48416
+OUT,Domestic,2022,Oct,Najran,151,19750
+OUT,Domestic,2022,Oct,NEOM,13,1787
+OUT,Domestic,2022,Oct,Qassim,62,6020
+OUT,Domestic,2022,Oct,Qurayyat,58,7475
+OUT,Domestic,2022,Oct,Rafha,27,3453
+OUT,Domestic,2022,Oct,Sharurah,53,5035
+OUT,Domestic,2022,Oct,Tabuk,219,30134
+OUT,Domestic,2022,Oct,Taif,210,23186
+OUT,Domestic,2022,Oct,Turaif,26,2560
+OUT,Domestic,2022,Oct,WADI AL-DAWASER,27,3619
+OUT,Domestic,2022,Oct,Al Wajh,9,992
+OUT,Domestic,2022,Oct,Yenbo,27,3590
+IN,Domestic,2022,Nov,Riyadh,4524,646514
+OUT,Domestic,2022,Nov,Abha,512,70077
+OUT,Domestic,2022,Nov,Al-Jawf,110,14157
+OUT,Domestic,2022,Nov,Al-Ula,35,4091
+OUT,Domestic,2022,Nov,Arar,86,10422
+OUT,Domestic,2022,Nov,Bisha,77,9111
+OUT,Domestic,2022,Nov,Dammam,402,52750
+OUT,Domestic,2022,Nov,Al-Bahah,67,7114
+OUT,Domestic,2022,Nov,Hafr Al-batin,60,7892
+OUT,Domestic,2022,Nov,Hail,150,17897
+OUT,Domestic,2022,Nov,Jeddah,1415,235599
+OUT,Domestic,2022,Nov,Jizan,376,46965
+OUT,Domestic,2022,Nov,Madinah,345,46504
+OUT,Domestic,2022,Nov,Najran,150,20135
+OUT,Domestic,2022,Nov,NEOM,14,1658
+OUT,Domestic,2022,Nov,Qassim,60,5945
+OUT,Domestic,2022,Nov,Qurayyat,63,7917
+OUT,Domestic,2022,Nov,Rafha,26,3340
+OUT,Domestic,2022,Nov,Sharurah,51,5051
+OUT,Domestic,2022,Nov,Tabuk,236,31943
+OUT,Domestic,2022,Nov,Taif,204,25252
+OUT,Domestic,2022,Nov,Turaif,27,2648
+OUT,Domestic,2022,Nov,WADI AL-DAWASER,30,3616
+OUT,Domestic,2022,Nov,Al Wajh,8,852
+OUT,Domestic,2022,Nov,Yenbo,30,3733
+IN,Domestic,2022,Dec,Riyadh,4714,687942
+OUT,Domestic,2022,Dec,Abha,548,78184
+OUT,Domestic,2022,Dec,Al-Jawf,139,16419
+OUT,Domestic,2022,Dec,Al-Ula,40,4764
+OUT,Domestic,2022,Dec,Arar,89,10684
+OUT,Domestic,2022,Dec,Bisha,80,10008
+OUT,Domestic,2022,Dec,Dammam,418,53373
+OUT,Domestic,2022,Dec,Al-Bahah,63,6990
+OUT,Domestic,2022,Dec,Hafr Al-batin,63,8302
+OUT,Domestic,2022,Dec,Hail,155,18463
+OUT,Domestic,2022,Dec,Jeddah,1499,260357
+OUT,Domestic,2022,Dec,Jizan,391,51554
+OUT,Domestic,2022,Dec,Madinah,341,52450
+OUT,Domestic,2022,Dec,Najran,155,21530
+OUT,Domestic,2022,Dec,NEOM,14,1648
+OUT,Domestic,2022,Dec,Qassim,58,5816
+OUT,Domestic,2022,Dec,Qurayyat,62,7434
+OUT,Domestic,2022,Dec,Rafha,26,3422
+OUT,Domestic,2022,Dec,Sharurah,54,6347
+OUT,Domestic,2022,Dec,Tabuk,249,34499
+OUT,Domestic,2022,Dec,Taif,212,25494
+OUT,Domestic,2022,Dec,Turaif,27,2957
+OUT,Domestic,2022,Dec,WADI AL-DAWASER,31,3987
+OUT,Domestic,2022,Dec,Al Wajh,9,843
+OUT,Domestic,2022,Dec,Yenbo,31,3780
+IN,Domestic,2023,Jan,Riyadh,4630,687178
+OUT,Domestic,2023,Jan,Abha,523,75180
+OUT,Domestic,2023,Jan,Al-Jawf,138,17324
+OUT,Domestic,2023,Jan,Al-Ula,41,5317
+OUT,Domestic,2023,Jan,Arar,88,10832
+OUT,Domestic,2023,Jan,Bisha,79,9318
+OUT,Domestic,2023,Jan,Dammam,411,52123
+OUT,Domestic,2023,Jan,Al-Bahah,58,5864
+OUT,Domestic,2023,Jan,Qassim,59,5639
+OUT,Domestic,2023,Jan,Jizan,382,49812
+OUT,Domestic,2023,Jan,Qurayyat,44,4305
+OUT,Domestic,2023,Jan,Hafr Al-batin,61,7786
+OUT,Domestic,2023,Jan,Hail,155,19424
+OUT,Domestic,2023,Jan,Jeddah,1456,256772
+OUT,Domestic,2023,Jan,Madinah,341,48901
+OUT,Domestic,2023,Jan,Najran,155,21280
+OUT,Domestic,2023,Jan,NEOM,13,2045
+OUT,Domestic,2023,Jan,Rafha,28,3763
+OUT,Domestic,2023,Jan,Sharurah,53,5737
+OUT,Domestic,2023,Jan,Tabuk,248,35109
+OUT,Domestic,2023,Jan,Taif,210,25890
+OUT,Domestic,2023,Jan,Turaif,26,3347
+OUT,Domestic,2023,Jan,WADI AL-DAWASER,31,3763
+OUT,Domestic,2023,Jan,Al Wajh,9,1036
+OUT,Domestic,2023,Jan,Yenbo,31,4077
+IN,Domestic,2023,Feb,Riyadh,4124,606433
+OUT,Domestic,2023,Feb,Abha,460,66410
+OUT,Domestic,2023,Feb,Al-Jawf,121,15138
+OUT,Domestic,2023,Feb,Al-Ula,37,4755
+OUT,Domestic,2023,Feb,Arar,80,10424
+OUT,Domestic,2023,Feb,Bisha,68,8400
+OUT,Domestic,2023,Feb,Dammam,361,46426
+OUT,Domestic,2023,Feb,Al-Bahah,31,4358
+OUT,Domestic,2023,Feb,Qassim,51,4959
+OUT,Domestic,2023,Feb,Jizan,361,42763
+OUT,Domestic,2023,Feb,Qurayyat,32,3997
+OUT,Domestic,2023,Feb,Hafr Al-batin,56,7255
+OUT,Domestic,2023,Feb,Hail,140,17213
+OUT,Domestic,2023,Feb,Jeddah,1327,233779
+OUT,Domestic,2023,Feb,Madinah,309,45507
+OUT,Domestic,2023,Feb,Najran,133,18045
+OUT,Domestic,2023,Feb,NEOM,12,1843
+OUT,Domestic,2023,Feb,Rafha,24,3383
+OUT,Domestic,2023,Feb,Sharurah,48,4988
+OUT,Domestic,2023,Feb,Tabuk,224,29556
+OUT,Domestic,2023,Feb,Taif,184,23101
+OUT,Domestic,2023,Feb,Turaif,24,3168
+OUT,Domestic,2023,Feb,WADI AL-DAWASER,28,3671
+OUT,Domestic,2023,Feb,Al Wajh,8,845
+OUT,Domestic,2023,Feb,Yenbo,28,3899
+IN,Domestic,2023,Mar,Riyadh,4571,668715
+OUT,Domestic,2023,Mar,Abha,510,77657
+OUT,Domestic,2023,Mar,Al-Jawf,133,17607
+OUT,Domestic,2023,Mar,Al-Ula,38,4263
+OUT,Domestic,2023,Mar,Arar,88,11283
+OUT,Domestic,2023,Mar,Bisha,76,10082
+OUT,Domestic,2023,Mar,Dammam,368,50158
+OUT,Domestic,2023,Mar,Al-Bahah,34,4647
+OUT,Domestic,2023,Mar,Qassim,60,5955
+OUT,Domestic,2023,Mar,Jizan,367,49675
+OUT,Domestic,2023,Mar,Qurayyat,46,5601
+OUT,Domestic,2023,Mar,Hafr Al-batin,62,7981
+OUT,Domestic,2023,Mar,Hail,154,18712
+OUT,Domestic,2023,Mar,Jeddah,1519,295915
+OUT,Domestic,2023,Mar,Madinah,343,52033
+OUT,Domestic,2023,Mar,Najran,144,20262
+OUT,Domestic,2023,Mar,NEOM,14,2177
+OUT,Domestic,2023,Mar,Rafha,26,3445
+OUT,Domestic,2023,Mar,Sharurah,49,5971
+OUT,Domestic,2023,Mar,Tabuk,240,33715
+OUT,Domestic,2023,Mar,Taif,227,31157
+OUT,Domestic,2023,Mar,Turaif,27,3243
+OUT,Domestic,2023,Mar,WADI AL-DAWASER,31,3943
+OUT,Domestic,2023,Mar,Al Wajh,9,1019
+OUT,Domestic,2023,Mar,Yenbo,31,4287
+IN,Domestic,2023,Apr,Riyadh,4371,603078
+OUT,Domestic,2023,Apr,Abha,418,56815
+OUT,Domestic,2023,Apr,Al-Jawf,121,11777
+OUT,Domestic,2023,Apr,Al-Ula,27,2885
+OUT,Domestic,2023,Apr,Arar,84,8223
+OUT,Domestic,2023,Apr,Bisha,67,8313
+OUT,Domestic,2023,Apr,Dammam,304,33709
+OUT,Domestic,2023,Apr,Al-Bahah,30,4201
+OUT,Domestic,2023,Apr,Qassim,55,4524
+OUT,Domestic,2023,Apr,Jizan,318,38145
+OUT,Domestic,2023,Apr,Qurayyat,30,3784
+OUT,Domestic,2023,Apr,Hafr Al-batin,59,6927
+OUT,Domestic,2023,Apr,Hail,148,13577
+OUT,Domestic,2023,Apr,Jeddah,1611,264247
+OUT,Domestic,2023,Apr,Madinah,351,49133
+OUT,Domestic,2023,Apr,Najran,126,14823
+OUT,Domestic,2023,Apr,NEOM,17,1362
+OUT,Domestic,2023,Apr,Rafha,26,2683
+OUT,Domestic,2023,Apr,Riyadh,3,186
+OUT,Domestic,2023,Apr,Sharurah,45,4743
+OUT,Domestic,2023,Apr,Tabuk,219,26059
+OUT,Domestic,2023,Apr,Taif,234,29185
+OUT,Domestic,2023,Apr,Turaif,26,2410
+OUT,Domestic,2023,Apr,WADI AL-DAWASER,30,3240
+OUT,Domestic,2023,Apr,Al Wajh,9,1006
+OUT,Domestic,2023,Apr,Yenbo,30,3677
+IN,Domestic,2023,May,Riyadh,4592,640658
+OUT,Domestic,2023,May,Abha,531,65583
+OUT,Domestic,2023,May,Al-Jawf,138,15605
+OUT,Domestic,2023,May,Al-Ula,25,2969
+OUT,Domestic,2023,May,Arar,89,10996
+OUT,Domestic,2023,May,Bisha,80,9539
+OUT,Domestic,2023,May,Dammam,372,47976
+OUT,Domestic,2023,May,Al-Bahah,39,5321
+OUT,Domestic,2023,May,Qassim,63,5549
+OUT,Domestic,2023,May,Jizan,387,39744
+OUT,Domestic,2023,May,Qurayyat,31,4596
+OUT,Domestic,2023,May,Hafr Al-batin,61,8258
+OUT,Domestic,2023,May,Hail,155,17341
+OUT,Domestic,2023,May,Jeddah,1479,216085
+OUT,Domestic,2023,May,Madinah,329,39873
+OUT,Domestic,2023,May,Najran,152,20536
+OUT,Domestic,2023,May,NEOM,18,2125
+OUT,Domestic,2023,May,Rafha,28,3339
+OUT,Domestic,2023,May,Sharurah,53,5804
+OUT,Domestic,2023,May,Tabuk,248,32376
+OUT,Domestic,2023,May,Taif,194,21783
+OUT,Domestic,2023,May,Turaif,26,3288
+OUT,Domestic,2023,May,WADI AL-DAWASER,32,3757
+OUT,Domestic,2023,May,Al Wajh,8,865
+OUT,Domestic,2023,May,Yenbo,31,4184
+IN,Domestic,2023,Jun,Riyadh,4557,528585
+OUT,Domestic,2023,Jun,Abha,499,86316
+OUT,Domestic,2023,Jun,Al-Jawf,126,16469
+OUT,Domestic,2023,Jun,Al-Ula,26,3103
+OUT,Domestic,2023,Jun,Arar,85,10704
+OUT,Domestic,2023,Jun,Bisha,77,11407
+OUT,Domestic,2023,Jun,Dammam,344,42898
+OUT,Domestic,2023,Jun,Al-Bahah,60,8709
+OUT,Domestic,2023,Jun,Qassim,59,6157
+OUT,Domestic,2023,Jun,Jizan,368,51624
+OUT,Domestic,2023,Jun,Qurayyat,30,4516
+OUT,Domestic,2023,Jun,Hafr Al-batin,60,7718
+OUT,Domestic,2023,Jun,Hail,141,17134
+OUT,Domestic,2023,Jun,Jeddah,1536,278654
+OUT,Domestic,2023,Jun,Madinah,321,50486
+OUT,Domestic,2023,Jun,Najran,146,21957
+OUT,Domestic,2023,Jun,NEOM,17,1573
+OUT,Domestic,2023,Jun,Rafha,25,3214
+OUT,Domestic,2023,Jun,Sharurah,52,6615
+OUT,Domestic,2023,Jun,Tabuk,238,33034
+OUT,Domestic,2023,Jun,Taif,192,28159
+OUT,Domestic,2023,Jun,Turaif,26,3524
+OUT,Domestic,2023,Jun,WADI AL-DAWASER,30,3894
+OUT,Domestic,2023,Jun,Al Wajh,9,1107
+OUT,Domestic,2023,Jun,Yenbo,30,4170
+IN,Domestic,2023,Jul,Riyadh,4388,744120
+OUT,Domestic,2023,Jul,Abha,516,97663
+OUT,Domestic,2023,Jul,Al-Jawf,136,15928
+OUT,Domestic,2023,Jul,Al-Ula,27,2963
+OUT,Domestic,2023,Jul,Arar,89,11020
+OUT,Domestic,2023,Jul,Bisha,80,10938
+OUT,Domestic,2023,Jul,Dammam,356,47729
+OUT,Domestic,2023,Jul,Al-Bahah,62,9435
+OUT,Domestic,2023,Jul,Qassim,54,4945
+OUT,Domestic,2023,Jul,Jizan,357,47897
+OUT,Domestic,2023,Jul,Qurayyat,31,4499
+OUT,Domestic,2023,Jul,Hafr Al-batin,62,7938
+OUT,Domestic,2023,Jul,Hail,146,16128
+OUT,Domestic,2023,Jul,Jeddah,1523,231480
+OUT,Domestic,2023,Jul,Madinah,328,38775
+OUT,Domestic,2023,Jul,Najran,143,20438
+OUT,Domestic,2023,Jul,NEOM,17,2072
+OUT,Domestic,2023,Jul,Rafha,27,3180
+OUT,Domestic,2023,Jul,Sharurah,53,5973
+OUT,Domestic,2023,Jul,Tabuk,220,31285
+OUT,Domestic,2023,Jul,Taif,216,31907
+OUT,Domestic,2023,Jul,Turaif,26,3251
+OUT,Domestic,2023,Jul,WADI AL-DAWASER,31,3465
+OUT,Domestic,2023,Jul,Al Wajh,9,1071
+OUT,Domestic,2023,Jul,Yenbo,31,3837
+IN,Domestic,2023,Aug,Riyadh,4479,776531
+OUT,Domestic,2023,Aug,Abha,553,76832
+OUT,Domestic,2023,Aug,Al-Jawf,140,19245
+OUT,Domestic,2023,Aug,Al-Ula,26,2861
+OUT,Domestic,2023,Aug,Arar,88,12296
+OUT,Domestic,2023,Aug,Bisha,80,8871
+OUT,Domestic,2023,Aug,Dammam,353,52170
+OUT,Domestic,2023,Aug,Al-Bahah,67,7392
+OUT,Domestic,2023,Aug,Qassim,59,6931
+OUT,Domestic,2023,Aug,Jizan,361,47176
+OUT,Domestic,2023,Aug,Qurayyat,31,4327
+OUT,Domestic,2023,Aug,Hafr Al-batin,62,8891
+OUT,Domestic,2023,Aug,Hail,147,18142
+OUT,Domestic,2023,Aug,Jeddah,1425,255588
+OUT,Domestic,2023,Aug,Madinah,314,45207
+OUT,Domestic,2023,Aug,Najran,145,20717
+OUT,Domestic,2023,Aug,NEOM,18,2397
+OUT,Domestic,2023,Aug,Rafha,27,3976
+OUT,Domestic,2023,Aug,Sharurah,52,6044
+OUT,Domestic,2023,Aug,Tabuk,227,34631
+OUT,Domestic,2023,Aug,Taif,214,28110
+OUT,Domestic,2023,Aug,Turaif,27,3343
+OUT,Domestic,2023,Aug,WADI AL-DAWASER,27,3399
+OUT,Domestic,2023,Aug,Al Wajh,9,1002
+OUT,Domestic,2023,Aug,Yenbo,31,4321
+IN,Domestic,2023,Sep,Riyadh,4348,667708
+OUT,Domestic,2023,Sep,Abha,435,67456
+OUT,Domestic,2023,Sep,Al-Jawf,105,14770
+OUT,Domestic,2023,Sep,Al-Ula,39,4670
+OUT,Domestic,2023,Sep,Arar,84,10928
+OUT,Domestic,2023,Sep,Bisha,76,9047
+OUT,Domestic,2023,Sep,Dammam,341,45990
+OUT,Domestic,2023,Sep,Al-Bahah,69,7021
+OUT,Domestic,2023,Sep,Qassim,52,5626
+OUT,Domestic,2023,Sep,Jizan,339,41501
+OUT,Domestic,2023,Sep,Qurayyat,30,4383
+OUT,Domestic,2023,Sep,Hafr Al-batin,60,8279
+OUT,Domestic,2023,Sep,Hail,148,17760
+OUT,Domestic,2023,Sep,Jeddah,1450,240099
+OUT,Domestic,2023,Sep,Madinah,328,45083
+OUT,Domestic,2023,Sep,Najran,150,21916
+OUT,Domestic,2023,Sep,NEOM,16,2406
+OUT,Domestic,2023,Sep,Rafha,25,3342
+OUT,Domestic,2023,Sep,Red Sea,4,115
+OUT,Domestic,2023,Sep,Sharurah,51,5608
+OUT,Domestic,2023,Sep,Tabuk,246,34532
+OUT,Domestic,2023,Sep,Taif,197,25546
+OUT,Domestic,2023,Sep,Turaif,26,3109
+OUT,Domestic,2023,Sep,WADI AL-DAWASER,29,3725
+OUT,Domestic,2023,Sep,Al Wajh,8,891
+OUT,Domestic,2023,Sep,Yenbo,31,4104
+IN,Domestic,2023,Oct,Riyadh,4668,710465
+OUT,Domestic,2023,Oct,Abha,478,72014
+OUT,Domestic,2023,Oct,Al-Jawf,117,16588
+OUT,Domestic,2023,Oct,Al-Ula,32,4886
+OUT,Domestic,2023,Oct,Arar,90,12359
+OUT,Domestic,2023,Oct,Bisha,79,9893
+OUT,Domestic,2023,Oct,Dammam,399,52442
+OUT,Domestic,2023,Oct,Al-Bahah,70,7686
+OUT,Domestic,2023,Oct,Qassim,51,6370
+OUT,Domestic,2023,Oct,Jizan,373,47261
+OUT,Domestic,2023,Oct,Qurayyat,31,4564
+OUT,Domestic,2023,Oct,Hafr Al-batin,62,8526
+OUT,Domestic,2023,Oct,Hail,155,19415
+OUT,Domestic,2023,Oct,Jeddah,1547,262613
+OUT,Domestic,2023,Oct,Madinah,353,53776
+OUT,Domestic,2023,Oct,Najran,155,23305
+OUT,Domestic,2023,Oct,NEOM,19,2443
+OUT,Domestic,2023,Oct,Rafha,27,3654
+OUT,Domestic,2023,Oct,Red Sea,10,727
+OUT,Domestic,2023,Oct,Sharurah,49,5831
+OUT,Domestic,2023,Oct,Tabuk,271,37860
+OUT,Domestic,2023,Oct,Taif,205,26332
+OUT,Domestic,2023,Oct,Turaif,26,3495
+OUT,Domestic,2023,Oct,WADI AL-DAWASER,31,3995
+OUT,Domestic,2023,Oct,Al Wajh,8,899
+OUT,Domestic,2023,Oct,Yenbo,31,4353
+IN,Domestic,2023,Nov,Riyadh,4844,773718
+OUT,Domestic,2023,Nov,Abha,484,79318
+OUT,Domestic,2023,Nov,Al-Jawf,90,13844
+OUT,Domestic,2023,Nov,Al-Ula,34,5261
+OUT,Domestic,2023,Nov,Arar,86,12432
+OUT,Domestic,2023,Nov,Bisha,79,11150
+OUT,Domestic,2023,Nov,Dammam,422,57797
+OUT,Domestic,2023,Nov,Al-Bahah,60,7847
+OUT,Domestic,2023,Nov,Qassim,46,5454
+OUT,Domestic,2023,Nov,Jizan,388,53770
+OUT,Domestic,2023,Nov,Qurayyat,30,4545
+OUT,Domestic,2023,Nov,Hafr Al-batin,59,8169
+OUT,Domestic,2023,Nov,Hail,181,23153
+OUT,Domestic,2023,Nov,Jeddah,1615,293302
+OUT,Domestic,2023,Nov,Madinah,387,58632
+OUT,Domestic,2023,Nov,Najran,180,24846
+OUT,Domestic,2023,Nov,NEOM,26,3347
+OUT,Domestic,2023,Nov,Rafha,27,3662
+OUT,Domestic,2023,Nov,Red Sea,13,1438
+OUT,Domestic,2023,Nov,Sharurah,51,6283
+OUT,Domestic,2023,Nov,Tabuk,257,37802
+OUT,Domestic,2023,Nov,Taif,240,32773
+OUT,Domestic,2023,Nov,Turaif,26,3710
+OUT,Domestic,2023,Nov,WADI AL-DAWASER,30,4108
+OUT,Domestic,2023,Nov,Yenbo,30,4479
+IN,Domestic,2023,Dec,Riyadh,5052,773613
+OUT,Domestic,2023,Dec,Abha,539,80282
+OUT,Domestic,2023,Dec,Al-Jawf,89,13256
+OUT,Domestic,2023,Dec,Al-Ula,37,6120
+OUT,Domestic,2023,Dec,Arar,85,12082
+OUT,Domestic,2023,Dec,Bisha,78,10227
+OUT,Domestic,2023,Dec,Dammam,465,56589
+OUT,Domestic,2023,Dec,Al-Bahah,62,7429
+OUT,Domestic,2023,Dec,Qassim,39,4300
+OUT,Domestic,2023,Dec,Jizan,386,55173
+OUT,Domestic,2023,Dec,Qurayyat,40,5589
+OUT,Domestic,2023,Dec,Hafr Al-batin,62,8370
+OUT,Domestic,2023,Dec,Hail,187,21694
+OUT,Domestic,2023,Dec,Jeddah,1726,310300
+OUT,Domestic,2023,Dec,Madinah,409,62268
+OUT,Domestic,2023,Dec,Najran,168,24004
+OUT,Domestic,2023,Dec,NEOM,26,3068
+OUT,Domestic,2023,Dec,Rafha,26,3609
+OUT,Domestic,2023,Dec,Red Sea,14,1473
+OUT,Domestic,2023,Dec,Sharurah,53,6808
+OUT,Domestic,2023,Dec,Tabuk,263,37239
+OUT,Domestic,2023,Dec,Taif,217,28787
+OUT,Domestic,2023,Dec,Turaif,27,3583
+OUT,Domestic,2023,Dec,WADI AL-DAWASER,31,4131
+OUT,Domestic,2023,Dec,Yenbo,31,4609
+IN,Domestic,2024,Jan,Riyadh,5378,824172
+OUT,Domestic,2024,Jan,Abha,523,83683
+OUT,Domestic,2024,Jan,Al-Jawf,91,13444
+OUT,Domestic,2024,Jan,Al-Ula,40,7088
+OUT,Domestic,2024,Jan,Arar,88,12204
+OUT,Domestic,2024,Jan,Bisha,80,11227
+OUT,Domestic,2024,Jan,Dammam,530,66119
+OUT,Domestic,2024,Jan,Dawadmi,8,655
+OUT,Domestic,2024,Jan,Al-Bahah,62,7907
+OUT,Domestic,2024,Jan,Hafr Al-batin,62,8339
+OUT,Domestic,2024,Jan,Hail,186,21989
+OUT,Domestic,2024,Jan,Jeddah,1793,309929
+OUT,Domestic,2024,Jan,Jizan,394,56769
+OUT,Domestic,2024,Jan,Madinah,427,63529
+OUT,Domestic,2024,Jan,Najran,217,28003
+OUT,Domestic,2024,Jan,NEOM,27,3685
+OUT,Domestic,2024,Jan,Qassim,62,6234
+OUT,Domestic,2024,Jan,Qurayyat,62,7983
+OUT,Domestic,2024,Jan,Rafha,27,3595
+OUT,Domestic,2024,Jan,Red Sea,14,1677
+OUT,Domestic,2024,Jan,Sharurah,53,6787
+OUT,Domestic,2024,Jan,Tabuk,277,41020
+OUT,Domestic,2024,Jan,Taif,239,32412
+OUT,Domestic,2024,Jan,Turaif,26,3086
+OUT,Domestic,2024,Jan,WADI AL-DAWASER,31,4026
+OUT,Domestic,2024,Jan,Yenbo,54,6227
+IN,Domestic,2024,Feb,Riyadh,5197,752532
+OUT,Domestic,2024,Feb,Abha,471,71894
+OUT,Domestic,2024,Feb,Al-Jawf,87,12615
+OUT,Domestic,2024,Feb,Al-Ula,38,6097
+OUT,Domestic,2024,Feb,Arar,100,12129
+OUT,Domestic,2024,Feb,Bisha,76,9526
+OUT,Domestic,2024,Feb,Dammam,546,63143
+OUT,Domestic,2024,Feb,Dawadmi,9,629
+OUT,Domestic,2024,Feb,Al-Bahah,58,6845
+OUT,Domestic,2024,Feb,Hafr Al-batin,58,7830
+OUT,Domestic,2024,Feb,Hail,174,20491
+OUT,Domestic,2024,Feb,Jeddah,1754,295270
+OUT,Domestic,2024,Feb,Jizan,378,50720
+OUT,Domestic,2024,Feb,Madinah,392,60789
+OUT,Domestic,2024,Feb,Najran,203,25647
+OUT,Domestic,2024,Feb,NEOM,29,3604
+OUT,Domestic,2024,Feb,Qassim,58,5863
+OUT,Domestic,2024,Feb,Qurayyat,58,7463
+OUT,Domestic,2024,Feb,Rafha,25,3350
+OUT,Domestic,2024,Feb,Red Sea,13,1589
+OUT,Domestic,2024,Feb,Sharurah,50,5866
+OUT,Domestic,2024,Feb,Tabuk,279,38156
+OUT,Domestic,2024,Feb,Taif,233,28855
+OUT,Domestic,2024,Feb,Turaif,25,2861
+OUT,Domestic,2024,Feb,WADI AL-DAWASER,29,3710
+OUT,Domestic,2024,Feb,Yenbo,55,5958
+IN,Domestic,2024,Mar,Riyadh,5163,703682
+OUT,Domestic,2024,Mar,Abha,445,67347
+OUT,Domestic,2024,Mar,Al-Jawf,76,10818
+OUT,Domestic,2024,Mar,Al-Ula,31,3680
+OUT,Domestic,2024,Mar,Arar,75,10438
+OUT,Domestic,2024,Mar,Bisha,70,9104
+OUT,Domestic,2024,Mar,Dammam,407,52318
+OUT,Domestic,2024,Mar,Dawadmi,9,677
+OUT,Domestic,2024,Mar,Al-Bahah,58,7038
+OUT,Domestic,2024,Mar,Hafr Al-batin,60,7244
+OUT,Domestic,2024,Mar,Hail,164,18197
+OUT,Domestic,2024,Mar,Jeddah,1995,382576
+OUT,Domestic,2024,Mar,Jizan,330,47734
+OUT,Domestic,2024,Mar,Madinah,454,64590
+OUT,Domestic,2024,Mar,Najran,183,23202
+OUT,Domestic,2024,Mar,NEOM,31,3861
+OUT,Domestic,2024,Mar,Qassim,62,5179
+OUT,Domestic,2024,Mar,Qurayyat,42,5905
+OUT,Domestic,2024,Mar,Rafha,24,2955
+OUT,Domestic,2024,Mar,Red Sea,14,1565
+OUT,Domestic,2024,Mar,Sharurah,53,6202
+OUT,Domestic,2024,Mar,Tabuk,244,33936
+OUT,Domestic,2024,Mar,Taif,230,33107
+OUT,Domestic,2024,Mar,Turaif,24,2954
+OUT,Domestic,2024,Mar,WADI AL-DAWASER,29,3370
+OUT,Domestic,2024,Mar,Yenbo,61,6095
+IN,Domestic,2024,Apr,Riyadh,5167,773555
+OUT,Domestic,2024,Apr,Abha,535,73371
+OUT,Domestic,2024,Apr,Al-Jawf,79,10070
+OUT,Domestic,2024,Apr,Al-Ula,33,4513
+OUT,Domestic,2024,Apr,Arar,76,9615
+OUT,Domestic,2024,Apr,Bisha,78,8800
+OUT,Domestic,2024,Apr,Dammam,496,54848
+OUT,Domestic,2024,Apr,Dawadmi,8,635
+OUT,Domestic,2024,Apr,Al-Bahah,57,6805
+OUT,Domestic,2024,Apr,Hafr Al-batin,56,7215
+OUT,Domestic,2024,Apr,Hail,149,17003
+OUT,Domestic,2024,Apr,Jeddah,1761,261739
+OUT,Domestic,2024,Apr,Jizan,366,43449
+OUT,Domestic,2024,Apr,Madinah,449,53028
+OUT,Domestic,2024,Apr,Najran,178,22585
+OUT,Domestic,2024,Apr,NEOM,30,3027
+OUT,Domestic,2024,Apr,Qassim,60,5876
+OUT,Domestic,2024,Apr,Qurayyat,58,6773
+OUT,Domestic,2024,Apr,Rafha,25,2790
+OUT,Domestic,2024,Apr,Red Sea,16,1717
+OUT,Domestic,2024,Apr,Sharurah,51,6148
+OUT,Domestic,2024,Apr,Tabuk,254,32445
+OUT,Domestic,2024,Apr,Taif,239,26592
+OUT,Domestic,2024,Apr,Turaif,24,2573
+OUT,Domestic,2024,Apr,WADI AL-DAWASER,29,3378
+OUT,Domestic,2024,Apr,Yenbo,52,5137
+IN,Domestic,2024,May,Riyadh,5452,772488
+OUT,Domestic,2024,May,Abha,591,86965
+OUT,Domestic,2024,May,Al-Jawf,94,13820
+OUT,Domestic,2024,May,Al-Ula,31,4292
+OUT,Domestic,2024,May,Arar,89,13252
+OUT,Domestic,2024,May,Bisha,77,10251
+OUT,Domestic,2024,May,Dammam,564,69514
+OUT,Domestic,2024,May,Dawadmi,9,517
+OUT,Domestic,2024,May,Al-Bahah,71,9172
+OUT,Domestic,2024,May,Hafr Al-batin,62,8676
+OUT,Domestic,2024,May,Hail,155,19624
+OUT,Domestic,2024,May,Jeddah,1751,312053
+OUT,Domestic,2024,May,Jizan,390,52655
+OUT,Domestic,2024,May,Madinah,453,67970
+OUT,Domestic,2024,May,Najran,183,26672
+OUT,Domestic,2024,May,NEOM,30,3931
+OUT,Domestic,2024,May,Qassim,64,6332
+OUT,Domestic,2024,May,Qurayyat,62,8863
+OUT,Domestic,2024,May,Rafha,26,3710
+OUT,Domestic,2024,May,Red Sea,17,2339
+OUT,Domestic,2024,May,Sharurah,53,6940
+OUT,Domestic,2024,May,Tabuk,279,39922
+OUT,Domestic,2024,May,Taif,238,31108
+OUT,Domestic,2024,May,Turaif,27,3617
+OUT,Domestic,2024,May,WADI AL-DAWASER,31,4245
+OUT,Domestic,2024,May,Yenbo,53,6530
+IN,Domestic,2024,Jun,Riyadh,5446,698310
+OUT,Domestic,2024,Jun,Abha,659,99763
+OUT,Domestic,2024,Jun,Al-Jawf,101,12878
+OUT,Domestic,2024,Jun,Al-Ula,27,3245
+OUT,Domestic,2024,Jun,Arar,102,12078
+OUT,Domestic,2024,Jun,Bisha,77,11334
+OUT,Domestic,2024,Jun,Dammam,514,57022
+OUT,Domestic,2024,Jun,Dawadmi,9,797
+OUT,Domestic,2024,Jun,Al-Bahah,107,15503
+OUT,Domestic,2024,Jun,Hafr Al-batin,60,7795
+OUT,Domestic,2024,Jun,Hail,149,16846
+OUT,Domestic,2024,Jun,Jeddah,1851,292695
+OUT,Domestic,2024,Jun,Jizan,328,48924
+OUT,Domestic,2024,Jun,Madinah,439,55892
+OUT,Domestic,2024,Jun,Najran,178,26100
+OUT,Domestic,2024,Jun,NEOM,31,3246
+OUT,Domestic,2024,Jun,Qassim,59,6022
+OUT,Domestic,2024,Jun,Qurayyat,69,9380
+OUT,Domestic,2024,Jun,Rafha,26,3262
+OUT,Domestic,2024,Jun,Red Sea,19,2332
+OUT,Domestic,2024,Jun,Sharurah,43,5822
+OUT,Domestic,2024,Jun,Tabuk,293,38111
+OUT,Domestic,2024,Jun,Taif,209,30124
+OUT,Domestic,2024,Jun,Turaif,26,3336
+OUT,Domestic,2024,Jun,WADI AL-DAWASER,30,3783
+OUT,Domestic,2024,Jun,Yenbo,51,5212
+IN,Domestic,2024,Jul,Riyadh,5446,859580
+OUT,Domestic,2024,Jul,Abha,711,124263
+OUT,Domestic,2024,Jul,Al-Jawf,125,15997
+OUT,Domestic,2024,Jul,Al-Ula,25,2945
+OUT,Domestic,2024,Jul,Arar,108,13898
+OUT,Domestic,2024,Jul,Bisha,80,10576
+OUT,Domestic,2024,Jul,Dammam,505,65298
+OUT,Domestic,2024,Jul,Dawadmi,8,559
+OUT,Domestic,2024,Jul,Al-Bahah,110,15470
+OUT,Domestic,2024,Jul,Hafr Al-batin,62,8893
+OUT,Domestic,2024,Jul,Hail,155,19724
+OUT,Domestic,2024,Jul,Jeddah,1736,312355
+OUT,Domestic,2024,Jul,Jizan,354,50209
+OUT,Domestic,2024,Jul,Madinah,470,58694
+OUT,Domestic,2024,Jul,Najran,186,26572
+OUT,Domestic,2024,Jul,NEOM,34,3781
+OUT,Domestic,2024,Jul,Qassim,62,7173
+OUT,Domestic,2024,Jul,Qurayyat,70,9150
+OUT,Domestic,2024,Jul,Rafha,27,3553
+OUT,Domestic,2024,Jul,Red Sea,17,2101
+OUT,Domestic,2024,Jul,Sharurah,44,6013
+OUT,Domestic,2024,Jul,Tabuk,279,38108
+OUT,Domestic,2024,Jul,Taif,209,32261
+OUT,Domestic,2024,Jul,Turaif,26,3177
+OUT,Domestic,2024,Jul,WADI AL-DAWASER,31,4125
+OUT,Domestic,2024,Jul,Yenbo,54,5371
+IN,Domestic,2024,Aug,Riyadh,5703,900070
+OUT,Domestic,2024,Aug,Abha,695,94726
+OUT,Domestic,2024,Aug,Al-Bahah,113,10315
+OUT,Domestic,2024,Aug,Al-Jawf,145,17408
+OUT,Domestic,2024,Aug,Al-Ula,27,3298
+OUT,Domestic,2024,Aug,Arar,106,13956
+OUT,Domestic,2024,Aug,Bisha,81,9061
+OUT,Domestic,2024,Aug,Dammam,508,64752
+OUT,Domestic,2024,Aug,Dawadmi,11,816
+OUT,Domestic,2024,Aug,Hafr Al-batin,63,9339
+OUT,Domestic,2024,Aug,Hail,156,19742
+OUT,Domestic,2024,Aug,Jeddah,1810,277222
+OUT,Domestic,2024,Aug,Jizan,380,49460
+OUT,Domestic,2024,Aug,Madinah,486,57982
+OUT,Domestic,2024,Aug,Najran,235,28255
+OUT,Domestic,2024,Aug,NEOM,41,4214
+OUT,Domestic,2024,Aug,Qassim,64,7168
+OUT,Domestic,2024,Aug,Qurayyat,73,7658
+OUT,Domestic,2024,Aug,Rafha,27,3760
+OUT,Domestic,2024,Aug,Red Sea,19,2285
+OUT,Domestic,2024,Aug,Sharurah,44,6432
+OUT,Domestic,2024,Aug,Tabuk,329,42177
+OUT,Domestic,2024,Aug,Taif,216,28797
+OUT,Domestic,2024,Aug,Turaif,27,3286
+OUT,Domestic,2024,Aug,WADI AL-DAWASER,32,3886
+OUT,Domestic,2024,Aug,Yenbo,54,5622
+IN,Domestic,2024,Sep,Riyadh,5342,784019
+OUT,Domestic,2024,Sep,Abha,588,79231
+OUT,Domestic,2024,Sep,Al-Bahah,60,7422
+OUT,Domestic,2024,Sep,Al-Jawf,138,16256
+OUT,Domestic,2024,Sep,Al-Ula,35,4893
+OUT,Domestic,2024,Sep,Arar,86,11910
+OUT,Domestic,2024,Sep,Bisha,74,9051
+OUT,Domestic,2024,Sep,Dammam,528,64816
+OUT,Domestic,2024,Sep,Dawadmi,8,630
+OUT,Domestic,2024,Sep,Hafr Al-batin,60,9020
+OUT,Domestic,2024,Sep,Hail,150,20462
+OUT,Domestic,2024,Sep,Jeddah,1779,278710
+OUT,Domestic,2024,Sep,Jizan,368,46518
+OUT,Domestic,2024,Sep,Madinah,428,53674
+OUT,Domestic,2024,Sep,Najran,180,25793
+OUT,Domestic,2024,Sep,NEOM,39,3888
+OUT,Domestic,2024,Sep,Qassim,63,6456
+OUT,Domestic,2024,Sep,Qurayyat,67,7437
+OUT,Domestic,2024,Sep,Rafha,26,3256
+OUT,Domestic,2024,Sep,Red Sea,17,2328
+OUT,Domestic,2024,Sep,Sharurah,41,5533
+OUT,Domestic,2024,Sep,Tabuk,280,36544
+OUT,Domestic,2024,Sep,Taif,219,28856
+OUT,Domestic,2024,Sep,Turaif,25,2901
+OUT,Domestic,2024,Sep,WADI AL-DAWASER,30,4016
+OUT,Domestic,2024,Sep,Yenbo,52,5618
+IN,Domestic,2024,Oct,Riyadh,5756,843971
+OUT,Domestic,2024,Oct,Jeddah,1938,326877
+OUT,Domestic,2024,Oct,Abha,609,82997
+OUT,Domestic,2024,Oct,Najran,207,29182
+OUT,Domestic,2024,Oct,Dammam,615,73903
+OUT,Domestic,2024,Oct,Madinah,441,65197
+OUT,Domestic,2024,Oct,Jizan,396,52265
+OUT,Domestic,2024,Oct,Hail,154,22387
+OUT,Domestic,2024,Oct,Yenbo,55,7422
+OUT,Domestic,2024,Oct,Tabuk,314,39589
+OUT,Domestic,2024,Oct,Al-Jawf,142,18515
+OUT,Domestic,2024,Oct,Arar,92,13430
+OUT,Domestic,2024,Oct,Taif,225,31769
+OUT,Domestic,2024,Oct,Hafr Al-batin,62,9232
+OUT,Domestic,2024,Oct,Sharurah,45,6324
+OUT,Domestic,2024,Oct,Al-Bahah,62,8320
+OUT,Domestic,2024,Oct,Qurayyat,62,8816
+OUT,Domestic,2024,Oct,NEOM,39,4247
+OUT,Domestic,2024,Oct,Bisha,80,10954
+OUT,Domestic,2024,Oct,Qassim,69,7156
+OUT,Domestic,2024,Oct,Al-Ula,34,5366
+OUT,Domestic,2024,Oct,Turaif,27,3640
+OUT,Domestic,2024,Oct,Red Sea,18,2667
+OUT,Domestic,2024,Oct,Rafha,27,3784
+OUT,Domestic,2024,Oct,WADI AL-DAWASER,31,4492
+OUT,Domestic,2024,Oct,Dawadmi,9,607
+IN,Domestic ,2024,Nov,Riyadh,5879,902863
+OUT,Domestic ,2024,Nov,Abha,630,95284
+OUT,Domestic ,2024,Nov,Al-Ahsa,11,426
+OUT,Domestic ,2024,Nov,Al-Bahah,60,8761
+OUT,Domestic ,2024,Nov,Al-Jawf,132,18185
+OUT,Domestic ,2024,Nov,Al-Ula,50,7736
+OUT,Domestic ,2024,Nov,Arar,102,13914
+OUT,Domestic ,2024,Nov,Bisha,77,10995
+OUT,Domestic ,2024,Nov,Dammam,636,79257
+OUT,Domestic ,2024,Nov,Dawadmi,9,871
+OUT,Domestic ,2024,Nov,Hafr Al-batin,74,10206
+OUT,Domestic ,2024,Nov,Hail,141,20858
+OUT,Domestic ,2024,Nov,Jeddah,1964,333505
+OUT,Domestic ,2024,Nov,Jizan,374,55754
+OUT,Domestic ,2024,Nov,Madinah,486,71787
+OUT,Domestic ,2024,Nov,Najran,214,30267
+OUT,Domestic ,2024,Nov,NEOM,34,4212
+OUT,Domestic ,2024,Nov,Qassim,60,7073
+OUT,Domestic ,2024,Nov,Qurayyat,60,8509
+OUT,Domestic ,2024,Nov,Rafha,25,3446
+OUT,Domestic ,2024,Nov,Red Sea,17,2615
+OUT,Domestic ,2024,Nov,Sharurah,43,6291
+OUT,Domestic ,2024,Nov,Tabuk,334,44755
+OUT,Domestic ,2024,Nov,Taif,235,33242
+OUT,Domestic ,2024,Nov,Turaif,30,3732
+OUT,Domestic ,2024,Nov,WADI AL-DAWASER,30,4381
+OUT,Domestic ,2024,Nov,Yenbo,50,6694
+IN,Domestic ,2024,Dec,Riyadh,5900,890992
+OUT,Domestic ,2024,Dec,Abha,614,88368
+OUT,Domestic ,2024,Dec,Al-Ahsa,13,408
+OUT,Domestic ,2024,Dec,Al-Bahah,62,8375
+OUT,Domestic ,2024,Dec,Al-Jawf,143,18152
+OUT,Domestic ,2024,Dec,Al-Ula,50,8723
+OUT,Domestic ,2024,Dec,Arar,105,14149
+OUT,Domestic ,2024,Dec,Bisha,80,10665
+OUT,Domestic ,2024,Dec,Dammam,620,80040
+OUT,Domestic ,2024,Dec,Dawadmi,8,594
+OUT,Domestic ,2024,Dec,Hafr Al-batin,68,9533
+OUT,Domestic ,2024,Dec,Hail,152,20566
+OUT,Domestic ,2024,Dec,Jeddah,1948,346305
+OUT,Domestic ,2024,Dec,Jizan,384,56719
+OUT,Domestic ,2024,Dec,Madinah,488,76955
+OUT,Domestic ,2024,Dec,Najran,215,29257
+OUT,Domestic ,2024,Dec,NEOM,35,3010
+OUT,Domestic ,2024,Dec,Qassim,63,6980
+OUT,Domestic ,2024,Dec,Qurayyat,52,7382
+OUT,Domestic ,2024,Dec,Rafha,27,3660
+OUT,Domestic ,2024,Dec,Red Sea,18,2687
+OUT,Domestic ,2024,Dec,Sharurah,44,6333
+OUT,Domestic ,2024,Dec,Tabuk,341,41939
+OUT,Domestic ,2024,Dec,Taif,248,33386
+OUT,Domestic ,2024,Dec,Turaif,30,3748
+OUT,Domestic ,2024,Dec,WADI AL-DAWASER,31,4450
+OUT,Domestic ,2024,Dec,Yenbo,54,7081
+IN,Domestic,2025,Jan,Riyadh,5762,898539
+OUT,Domestic,2025,Jan,Jizan,374,55443
+OUT,Domestic,2025,Jan,Najran,243,30693
+OUT,Domestic,2025,Jan,Jeddah,1923,334245
+OUT,Domestic,2025,Jan,Dammam,584,82018
+OUT,Domestic,2025,Jan,Madinah,475,73045
+OUT,Domestic,2025,Jan,Hail,152,22121
+OUT,Domestic,2025,Jan,Abha,609,96198
+OUT,Domestic,2025,Jan,Yenbo,53,6600
+OUT,Domestic,2025,Jan,Tabuk,319,43025
+OUT,Domestic,2025,Jan,Taif,220,32233
+OUT,Domestic,2025,Jan,Al-Jawf,140,19018
+OUT,Domestic,2025,Jan,Arar,101,13757
+OUT,Domestic,2025,Jan,Hafr Al-batin,67,9547
+OUT,Domestic,2025,Jan,Sharurah,44,6644
+OUT,Domestic,2025,Jan,Al-Bahah,62,8218
+OUT,Domestic,2025,Jan,Qurayyat,48,6995
+OUT,Domestic,2025,Jan,Bisha,80,11287
+OUT,Domestic,2025,Jan,Qassim,62,7205
+OUT,Domestic,2025,Jan,Turaif,27,3651
+OUT,Domestic,2025,Jan,Rafha,26,3631
+OUT,Domestic,2025,Jan,WADI AL-DAWASER,29,4213
+OUT,Domestic,2025,Jan,NEOM,35,3394
+OUT,Domestic,2025,Jan,Al-Ula,44,7863
+OUT,Domestic,2025,Jan,Dawadmi,9,773
+OUT,Domestic,2025,Jan,Red Sea,17,2434
+OUT,Domestic,2025,Jan,Al-Ahsa,13,597
+IN,Domestic ,2025,Feb,Riyadh,4918,767246
+OUT,Domestic ,2025,Feb,Abha,516,84005
+OUT,Domestic ,2025,Feb,Al-Ahsa,12,517
+OUT,Domestic ,2025,Feb,Al-Bahah,56,7669
+OUT,Domestic ,2025,Feb,Al-Jawf,126,16823
+OUT,Domestic ,2025,Feb,Al-Ula,31,5531
+OUT,Domestic ,2025,Feb,Arar,94,13115
+OUT,Domestic ,2025,Feb,Bisha,69,9250
+OUT,Domestic ,2025,Feb,Dammam,463,64612
+OUT,Domestic ,2025,Feb,Dawadmi,8,628
+OUT,Domestic ,2025,Feb,Hafr Al-batin,62,8708
+OUT,Domestic ,2025,Feb,Hail,130,18277
+OUT,Domestic ,2025,Feb,Jeddah,1700,304305
+OUT,Domestic ,2025,Feb,Jizan,324,47406
+OUT,Domestic ,2025,Feb,Madinah,414,69364
+OUT,Domestic ,2025,Feb,Najran,194,26790
+OUT,Domestic ,2025,Feb,NEOM,33,3228
+OUT,Domestic ,2025,Feb,Qassim,52,5946
+OUT,Domestic ,2025,Feb,Qurayyat,28,4503
+OUT,Domestic ,2025,Feb,Rafha,20,2855
+OUT,Domestic ,2025,Feb,Red Sea,16,2399
+OUT,Domestic ,2025,Feb,Sharurah,40,5784
+OUT,Domestic ,2025,Feb,Tabuk,245,35516
+OUT,Domestic ,2025,Feb,Taif,190,27033
+OUT,Domestic ,2025,Feb,Turaif,24,3530
+OUT,Domestic ,2025,Feb,WADI AL-DAWASER,28,3911
+OUT,Domestic ,2025,Feb,Yenbo,46,5920
+IN,Domestic ,2025,Mar,Riyadh,5484,726014
+OUT,Domestic ,2025,Mar,Taif,270,39804
+OUT,Domestic ,2025,Mar,Najran,201,24560
+OUT,Domestic ,2025,Mar,Dammam,419,48882
+OUT,Domestic ,2025,Mar,Jeddah,2217,395992
+OUT,Domestic ,2025,Mar,Jizan,333,48236
+OUT,Domestic ,2025,Mar,Hail,126,15831
+OUT,Domestic ,2025,Mar,Madinah,504,78609
+OUT,Domestic ,2025,Mar,Abha,456,75035
+OUT,Domestic ,2025,Mar,Tabuk,242,29909
+OUT,Domestic ,2025,Mar,Arar,83,10877
+OUT,Domestic ,2025,Mar,Hafr Al-batin,57,7945
+OUT,Domestic ,2025,Mar,Sharurah,37,5065
+OUT,Domestic ,2025,Mar,Al-Jawf,112,14081
+OUT,Domestic ,2025,Mar,Red Sea,19,2211
+OUT,Domestic ,2025,Mar,Bisha,69,9305
+OUT,Domestic ,2025,Mar,Qassim,49,5352
+OUT,Domestic ,2025,Mar,Turaif,23,2953
+OUT,Domestic ,2025,Mar,NEOM,36,2773
+OUT,Domestic ,2025,Mar,Dawadmi,9,893
+OUT,Domestic ,2025,Mar,Rafha,27,3157
+OUT,Domestic ,2025,Mar,WADI AL-DAWASER,26,3635
+OUT,Domestic ,2025,Mar,Al-Bahah,57,7980
+OUT,Domestic ,2025,Mar,Yenbo,46,5280
+OUT,Domestic ,2025,Mar,Al-Ula,28,3992
+OUT,Domestic ,2025,Mar,Qurayyat,41,5853
+IN,Domestic,2025,Apr,Riyadh,5758,923109
+OUT,Domestic,2025,Apr,Abha,623,84764
+OUT,Domestic,2025,Apr,Al-Bahah,60,6955
+OUT,Domestic,2025,Apr,Al-Jawf,137,15236
+OUT,Domestic,2025,Apr,Al-Ula,37,5872
+OUT,Domestic,2025,Apr,Arar,132,14966
+OUT,Domestic,2025,Apr,Bisha,82,9225
+OUT,Domestic,2025,Apr,Dammam,510,72130
+OUT,Domestic,2025,Apr,Dawadmi,8,510
+OUT,Domestic,2025,Apr,Hafr Al-batin,73,10196
+OUT,Domestic,2025,Apr,Hail,149,19177
+OUT,Domestic,2025,Apr,Jeddah,1921,274014
+OUT,Domestic,2025,Apr,Jizan,398,45600
+OUT,Domestic,2025,Apr,Madinah,474,57458
+OUT,Domestic,2025,Apr,Najran,202,26867
+OUT,Domestic,2025,Apr,NEOM,38,3593
+OUT,Domestic,2025,Apr,Qassim,60,5824
+OUT,Domestic,2025,Apr,Qurayyat,102,9281
+OUT,Domestic,2025,Apr,Rafha,26,3220
+OUT,Domestic,2025,Apr,Red Sea,22,2842
+OUT,Domestic,2025,Apr,Sharurah,42,6277
+OUT,Domestic,2025,Apr,Tabuk,331,40690
+OUT,Domestic,2025,Apr,Taif,213,25658
+OUT,Domestic,2025,Apr,Turaif,30,3418
+OUT,Domestic,2025,Apr,WADI AL-DAWASER,30,4016
+OUT,Domestic,2025,Apr,Yenbo,52,5324
+IN,Domestic,2025,May,Riyadh,6090,820137
+OUT,Domestic,2025,May,Abha,620,98051
+OUT,Domestic,2025,May,Al-Bahah,73,9874
+OUT,Domestic,2025,May,Al-Jawf,135,18159
+OUT,Domestic,2025,May,Al-Ula,35,4884
+OUT,Domestic,2025,May,Arar,136,18134
+OUT,Domestic,2025,May,Bisha,80,11050
+OUT,Domestic,2025,May,Dammam,535,75927
+OUT,Domestic,2025,May,Dawadmi,10,999
+OUT,Domestic,2025,May,Hafr Al-batin,78,11246
+OUT,Domestic,2025,May,Hail,160,22104
+OUT,Domestic,2025,May,Jeddah,2009,338272
+OUT,Domestic,2025,May,Jizan,403,55510
+OUT,Domestic,2025,May,Madinah,507,74567
+OUT,Domestic,2025,May,Najran,207,30739
+OUT,Domestic,2025,May,NEOM,46,3535
+OUT,Domestic,2025,May,Qassim,62,7355
+OUT,Domestic,2025,May,Qurayyat,111,13913
+OUT,Domestic,2025,May,Rafha,31,4122
+OUT,Domestic,2025,May,Red Sea,26,3511
+OUT,Domestic,2025,May,Sharurah,46,6619
+OUT,Domestic,2025,May,Tabuk,342,44234
+OUT,Domestic,2025,May,Taif,249,33579
+OUT,Domestic,2025,May,Turaif,31,3953
+OUT,Domestic,2025,May,WADI AL-DAWASER,31,4534
+OUT,Domestic,2025,May,Yenbo,52,6263
+IN,Domestic,2025,Jun,Riyadh,5702,761625
+OUT,Domestic,2025,Jun,Abha,618,97551
+OUT,Domestic,2025,Jun,Al-Bahah,97,11389
+OUT,Domestic,2025,Jun,Al-Jawf,134,13993
+OUT,Domestic,2025,Jun,Al-Ula,17,2832
+OUT,Domestic,2025,Jun,Arar,130,15421
+OUT,Domestic,2025,Jun,Bisha,78,9522
+OUT,Domestic,2025,Jun,Dammam,514,63490
+OUT,Domestic,2025,Jun,Dawadmi,8,691
+OUT,Domestic,2025,Jun,Hafr Al-batin,69,9261
+OUT,Domestic,2025,Jun,Hail,148,18758
+OUT,Domestic,2025,Jun,Jeddah,1975,295265
+OUT,Domestic,2025,Jun,Jizan,345,44544
+OUT,Domestic,2025,Jun,Madinah,474,54582
+OUT,Domestic,2025,Jun,Najran,198,26555
+OUT,Domestic,2025,Jun,NEOM,38,2553
+OUT,Domestic,2025,Jun,Qassim,59,5856
+OUT,Domestic,2025,Jun,Qurayyat,107,14124
+OUT,Domestic,2025,Jun,Rafha,26,3263
+OUT,Domestic,2025,Jun,Red Sea,26,2987
+OUT,Domestic,2025,Jun,Sharurah,42,5696
+OUT,Domestic,2025,Jun,Tabuk,322,37711
+OUT,Domestic,2025,Jun,Taif,220,29250
+OUT,Domestic,2025,Jun,Turaif,29,3171
+OUT,Domestic,2025,Jun,WADI AL-DAWASER,30,3657
+OUT,Domestic,2025,Jun,Yenbo,51,5116
+IN,Domestic,2025,Jul,Riyadh,6012,921116
+OUT,Domestic,2025,Jul,Abha,707,138127
+OUT,Domestic,2025,Jul,Al-Bahah,106,16836
+OUT,Domestic,2025,Jul,Al-Jawf,142,18525
+OUT,Domestic,2025,Jul,Al-Ula,18,3387
+OUT,Domestic,2025,Jul,Arar,138,18835
+OUT,Domestic,2025,Jul,Bisha,80,12442
+OUT,Domestic,2025,Jul,Dammam,497,67758
+OUT,Domestic,2025,Jul,Dawadmi,9,993
+OUT,Domestic,2025,Jul,Hafr Al-batin,75,11236
+OUT,Domestic,2025,Jul,Hail,159,23679
+OUT,Domestic,2025,Jul,Jeddah,1954,382399
+OUT,Domestic,2025,Jul,Jizan,393,59417
+OUT,Domestic,2025,Jul,Madinah,507,77562
+OUT,Domestic,2025,Jul,Najran,205,32256
+OUT,Domestic,2025,Jul,NEOM,45,3183
+OUT,Domestic,2025,Jul,Qassim,62,7585
+OUT,Domestic,2025,Jul,Qurayyat,111,16310
+OUT,Domestic,2025,Jul,Rafha,28,3909
+OUT,Domestic,2025,Jul,Red Sea,27,3247
+OUT,Domestic,2025,Jul,Sharurah,45,7004
+OUT,Domestic,2025,Jul,Tabuk,333,41693
+OUT,Domestic,2025,Jul,Taif,260,41026
+OUT,Domestic,2025,Jul,Turaif,31,4089
+OUT,Domestic,2025,Jul,WADI AL-DAWASER,31,4552
+OUT,Domestic,2025,Jul,Yenbo,55,5890
+IN,Domestic,2025,Aug,Riyadh,6027,1025600
+OUT,Domestic,2025,Aug,Abha,703,115664
+OUT,Domestic,2025,Aug,Aljouf,142,18232
+OUT,Domestic,2025,Aug,Alola,18,3445
+OUT,Domestic,2025,Aug,Arar,136,19674
+OUT,Domestic,2025,Aug,Bisha,83,9943
+OUT,Domestic,2025,Aug,Dammam,500,75027
+OUT,Domestic,2025,Aug,Dawadmi,9,818
+OUT,Domestic,2025,Aug,Al-Bahah,95,12102
+OUT,Domestic,2025,Aug,Gassim,62,7979
+OUT,Domestic,2025,Aug,Gizan,383,52802
+OUT,Domestic,2025,Aug,Guriat,111,11455
+OUT,Domestic,2025,Aug,Hafr Al-batin,75,12003
+OUT,Domestic,2025,Aug,Hail,159,23050
+OUT,Domestic,2025,Aug,Jeddah,1998,318639
+OUT,Domestic,2025,Aug,Madinah,495,68349
+OUT,Domestic,2025,Aug,NEOM,33,3339
+OUT,Domestic,2025,Aug,Najran,203,29263
+OUT,Domestic,2025,Aug,Rafha,26,3976
+OUT,Domestic,2025,Aug,Red Sea,27,3058
+OUT,Domestic,2025,Aug,Sharurah,44,6609
+OUT,Domestic,2025,Aug,Tabuk,336,43519
+OUT,Domestic,2025,Aug,Taif,254,35418
+OUT,Domestic,2025,Aug,Turaif,31,3827
+OUT,Domestic,2025,Aug,WADI AL-DAWASER,31,4432
+OUT,Domestic,2025,Aug,Yenbo,52,5900
+IN,Domestic,2025,Sep,Riyadh,5799,846548
+OUT,Domestic,2025,Sep,Abha,623,86292
+OUT,Domestic,2025,Sep,Aljouf,140,17150
+OUT,Domestic,2025,Sep,Alola,36,5127
+OUT,Domestic,2025,Sep,Arar,131,17096
+OUT,Domestic,2025,Sep,Bisha,77,9118
+OUT,Domestic,2025,Sep,Dammam,486,68953
+OUT,Domestic,2025,Sep,Dawadmi,8,615
+OUT,Domestic,2025,Sep,Al-Bahah,77,8489
+OUT,Domestic,2025,Sep,Gassim,60,7035
+OUT,Domestic,2025,Sep,Gizan,343,44364
+OUT,Domestic,2025,Sep,Guriat,106,11156
+OUT,Domestic,2025,Sep,Hafr Al-batin,73,11166
+OUT,Domestic,2025,Sep,Hail,167,22994
+OUT,Domestic,2025,Sep,Jeddah,1960,298162
+OUT,Domestic,2025,Sep,Madinah,496,66055
+OUT,Domestic,2025,Sep,NEOM,35,2914
+OUT,Domestic,2025,Sep,Najran,205,27805
+OUT,Domestic,2025,Sep,Rafha,26,3748
+OUT,Domestic,2025,Sep,Red Sea,26,3312
+OUT,Domestic,2025,Sep,Sharurah,43,6238
+OUT,Domestic,2025,Sep,Tabuk,309,37053
+OUT,Domestic,2025,Sep,Taif,262,33133
+OUT,Domestic,2025,Sep,Turaif,30,3753
+OUT,Domestic,2025,Sep,WADI AL-DAWASER,30,4145
+OUT,Domestic,2025,Sep,Yenbo,52,5973
+IN,Domestic,2025,Oct,Riyadh,6098,913887
+OUT,Domestic,2025,Oct,Abha,636,93289
+OUT,Domestic,2025,Oct,Al-Bahah,73,8836
+OUT,Domestic,2025,Oct,Aljouf,146,19428
+OUT,Domestic,2025,Oct,Alola,47,6673
+OUT,Domestic,2025,Oct,Arar,131,17309
+OUT,Domestic,2025,Oct,Bisha,80,10294
+OUT,Domestic,2025,Oct,Dammam,567,83714
+OUT,Domestic,2025,Oct,Dawadmi,9,805
+OUT,Domestic,2025,Oct,Gassim,63,7496
+OUT,Domestic,2025,Oct,Gizan,376,50466
+OUT,Domestic,2025,Oct,Guriat,105,12944
+OUT,Domestic,2025,Oct,Hafr Al-batin,73,10909
+OUT,Domestic,2025,Oct,Hail,187,26325
+OUT,Domestic,2025,Oct,Jeddah,2021,346346
+OUT,Domestic,2025,Oct,Madinah,518,76937
+OUT,Domestic,2025,Oct,NEOM,35,2756
+OUT,Domestic,2025,Oct,Najran,213,29808
+OUT,Domestic,2025,Oct,Rafha,26,3857
+OUT,Domestic,2025,Oct,Red Sea,27,3472
+OUT,Domestic,2025,Oct,Sharurah,44,6186
+OUT,Domestic,2025,Oct,Tabuk,324,41290
+OUT,Domestic,2025,Oct,Taif,266,34942
+OUT,Domestic,2025,Oct,Turaif,30,3943
+OUT,Domestic,2025,Oct,WADI AL-DAWASER,31,4421
+OUT,Domestic,2025,Oct,Yenbo,53,6502
+IN,Domestic,2025,Nov,Riyadh,6057,962396
+OUT,Domestic,2025,Nov,Abha,588,91701
+OUT,Domestic,2025,Nov,Al-Bahah,68,8761
+OUT,Domestic,2025,Nov,Aljouf,163,22598
+OUT,Domestic,2025,Nov,Alola,51,8131
+OUT,Domestic,2025,Nov,Arar,130,17871
+OUT,Domestic,2025,Nov,Bisha,84,11156
+OUT,Domestic,2025,Nov,Dammam,575,84136
+OUT,Domestic,2025,Nov,Dawadmi,9,986
+OUT,Domestic,2025,Nov,Gassim,60,7622
+OUT,Domestic,2025,Nov,Gizan,394,55955
+OUT,Domestic,2025,Nov,Guriat,103,13414
+OUT,Domestic,2025,Nov,Hafr Al-batin,60,9561
+OUT,Domestic,2025,Nov,Hail,180,26860
+OUT,Domestic,2025,Nov,Jeddah,2064,361678
+OUT,Domestic,2025,Nov,Madinah,479,72117
+OUT,Domestic,2025,Nov,NEOM,36,3340
+OUT,Domestic,2025,Nov,Najran,223,31294
+OUT,Domestic,2025,Nov,Rafha,26,4024
+OUT,Domestic,2025,Nov,Red Sea,30,4249
+OUT,Domestic,2025,Nov,Sharurah,60,7409
+OUT,Domestic,2025,Nov,Tabuk,322,43983
+OUT,Domestic,2025,Nov,Taif,254,36429
+OUT,Domestic,2025,Nov,Turaif,26,3541
+OUT,Domestic,2025,Nov,WADI AL-DAWASER,33,4945
+OUT,Domestic,2025,Nov,Yenbo,51,6813
+IN,Domestic,2025,Dec,Riyadh,6311,928515
+OUT,Domestic,2025,Dec,Abha,616,91241
+OUT,Domestic,2025,Dec,Al-Bahah,72,8583
+OUT,Domestic,2025,Dec,Aljouf,179,22101
+OUT,Domestic,2025,Dec,Alola,50,8638
+OUT,Domestic,2025,Dec,Arar,131,17605
+OUT,Domestic,2025,Dec,Bisha,80,10673
+OUT,Domestic,2025,Dec,Dammam,589,78105
+OUT,Domestic,2025,Dec,Dawadmi,8,588
+OUT,Domestic,2025,Dec,Gassim,57,6634
+OUT,Domestic,2025,Dec,Gizan,426,57343
+OUT,Domestic,2025,Dec,Guriat,104,12686
+OUT,Domestic,2025,Dec,Hafr Al-batin,58,8654
+OUT,Domestic,2025,Dec,Hail,182,24978
+OUT,Domestic,2025,Dec,Jeddah,2126,359695
+OUT,Domestic,2025,Dec,Madinah,501,76583
+OUT,Domestic,2025,Dec,NEOM,40,2209
+OUT,Domestic,2025,Dec,Najran,245,32183
+OUT,Domestic,2025,Dec,Rafha,27,4036
+OUT,Domestic,2025,Dec,Red Sea,30,3726
+OUT,Domestic,2025,Dec,Sharurah,60,8534
+OUT,Domestic,2025,Dec,Tabuk,335,42907
+OUT,Domestic,2025,Dec,Taif,279,35153
+OUT,Domestic,2025,Dec,Turaif,26,3101
+OUT,Domestic,2025,Dec,WADI AL-DAWASER,29,4313
+OUT,Domestic,2025,Dec,Yenbo,53,7350
+IN,Domestic,2026,Jan,Riyadh,6439,1011098
+OUT,Domestic,2026,Jan,Abha,627,98991
+OUT,Domestic,2026,Jan,Al-Bahah,106,12077
+OUT,Domestic,2026,Jan,Aljouf,172,23493
+OUT,Domestic,2026,Jan,Alola,59,10363
+OUT,Domestic,2026,Jan,Arar,131,18082
+OUT,Domestic,2026,Jan,Bisha,113,13992
+OUT,Domestic,2026,Jan,Dammam,589,83659
+OUT,Domestic,2026,Jan,Dawadmi,10,1123
+OUT,Domestic,2026,Jan,Gassim,61,7894
+OUT,Domestic,2026,Jan,Gizan,426,60139
+OUT,Domestic,2026,Jan,Guriat,106,14079
+OUT,Domestic,2026,Jan,Hafr Al-batin,69,10489
+OUT,Domestic,2026,Jan,Hail,186,26692
+OUT,Domestic,2026,Jan,Jeddah,2151,372208
+OUT,Domestic,2026,Jan,Madinah,493,74658
+OUT,Domestic,2026,Jan,NEOM,36,3242
+OUT,Domestic,2026,Jan,Najran,248,34204
+OUT,Domestic,2026,Jan,Rafha,27,4237
+OUT,Domestic,2026,Jan,Red Sea,32,4190
+OUT,Domestic,2026,Jan,Sharurah,62,8761
+OUT,Domestic,2026,Jan,Tabuk,340,47125
+OUT,Domestic,2026,Jan,Taif,279,37858
+OUT,Domestic,2026,Jan,Turaif,27,3644
+OUT,Domestic,2026,Jan,WADI AL-DAWASER,35,4915
+OUT,Domestic,2026,Jan,Yenbo,52,7264
+IN,Domestic,2026,Feb,Riyadh,5670,789520
+OUT,Domestic,2026,Feb,Abha,506,74012
+OUT,Domestic,2026,Feb,Al-Bahah,91,9912
+OUT,Domestic,2026,Feb,Aljouf,135,18513
+OUT,Domestic,2026,Feb,Alola,43,7056
+OUT,Domestic,2026,Feb,Arar,110,15086
+OUT,Domestic,2026,Feb,Bisha,98,11170
+OUT,Domestic,2026,Feb,Dammam,473,61382
+OUT,Domestic,2026,Feb,Dawadmi,8,536
+OUT,Domestic,2026,Feb,Gassim,41,5109
+OUT,Domestic,2026,Feb,Gizan,360,48064
+OUT,Domestic,2026,Feb,Guriat,86,11251
+OUT,Domestic,2026,Feb,Hafr Al-batin,57,8426
+OUT,Domestic,2026,Feb,Hail,141,19714
+OUT,Domestic,2026,Feb,Jeddah,2100,371156
+OUT,Domestic,2026,Feb,Madinah,463,66948
+OUT,Domestic,2026,Feb,NEOM,8,620
+OUT,Domestic,2026,Feb,Najran,219,27982
+OUT,Domestic,2026,Feb,Rafha,23,3127
+OUT,Domestic,2026,Feb,Red Sea,28,3691
+OUT,Domestic,2026,Feb,Sharurah,49,6548
+OUT,Domestic,2026,Feb,Tabuk,274,36494
+OUT,Domestic,2026,Feb,Taif,275,35679
+OUT,Domestic,2026,Feb,Turaif,22,2604
+OUT,Domestic,2026,Feb,WADI AL-DAWASER,25,3439
+OUT,Domestic,2026,Feb,Yenbo,44,5736
+IN,Domestic,2026,Mar,Riyadh,6008,818024
+OUT,Domestic,2026,Mar,Abha,540,79777
+OUT,Domestic,2026,Mar,Al-Bahah,104,12016
+OUT,Domestic,2026,Mar,Aljouf,133,15815
+OUT,Domestic,2026,Mar,Alola,39,4597
+OUT,Domestic,2026,Mar,Arar,105,13500
+OUT,Domestic,2026,Mar,Bisha,110,13569
+OUT,Domestic,2026,Mar,Dammam,453,43841
+OUT,Domestic,2026,Mar,Dawadmi,9,884
+OUT,Domestic,2026,Mar,Gassim,43,4158
+OUT,Domestic,2026,Mar,Gizan,389,48095
+OUT,Domestic,2026,Mar,Guriat,76,10571
+OUT,Domestic,2026,Mar,Hafr Al-batin,40,5179
+OUT,Domestic,2026,Mar,Hail,144,16573
+OUT,Domestic,2026,Mar,Jeddah,2336,365529
+OUT,Domestic,2026,Mar,Madinah,532,68299
+OUT,Domestic,2026,Mar,NEOM,10,417
+OUT,Domestic,2026,Mar,Najran,214,26261
+OUT,Domestic,2026,Mar,Rafha,21,2637
+OUT,Domestic,2026,Mar,Red Sea,38,4313
+OUT,Domestic,2026,Mar,Sharurah,48,6680
+OUT,Domestic,2026,Mar,Tabuk,290,35593
+OUT,Domestic,2026,Mar,Taif,278,35801
+OUT,Domestic,2026,Mar,Turaif,19,1975
+OUT,Domestic,2026,Mar,WADI AL-DAWASER,29,3455
+OUT,Domestic,2026,Mar,Yenbo,42,4507
+IN,Domestic,2026,Apr,Riyadh,5792,846446
+OUT,Domestic,2026,Apr,Abha,536,67016
+OUT,Domestic,2026,Apr,Al-Bahah,104,9554
+OUT,Domestic,2026,Apr,Aljouf,138,17026
+OUT,Domestic,2026,Apr,Alola,42,4283
+OUT,Domestic,2026,Apr,Arar,103,13738
+OUT,Domestic,2026,Apr,Bisha,101,10516
+OUT,Domestic,2026,Apr,Dammam,526,58582
+OUT,Domestic,2026,Apr,Dawadmi,9,524
+OUT,Domestic,2026,Apr,Gassim,53,5696
+OUT,Domestic,2026,Apr,Gizan,356,40833
+OUT,Domestic,2026,Apr,Guriat,73,8627
+OUT,Domestic,2026,Apr,Hafr Al-batin,75,8766
+OUT,Domestic,2026,Apr,Hail,139,17299
+OUT,Domestic,2026,Apr,Jeddah,2081,354799
+OUT,Domestic,2026,Apr,Madinah,472,58160
+OUT,Domestic,2026,Apr,NEOM,26,1271
+OUT,Domestic,2026,Apr,Najran,225,26307
+OUT,Domestic,2026,Apr,Rafha,26,2949
+OUT,Domestic,2026,Apr,Red Sea,30,4505
+OUT,Domestic,2026,Apr,Sharurah,57,6517
+OUT,Domestic,2026,Apr,Tabuk,264,32549
+OUT,Domestic,2026,Apr,Taif,247,31022
+OUT,Domestic,2026,Apr,Turaif,27,3068
+OUT,Domestic,2026,Apr,WADI AL-DAWASER,32,3836
+OUT,Domestic,2026,Apr,Yenbo,42,4749
+IN,Domestic,2026,May,Riyadh,5579,675135
+OUT,Domestic,2026,May,Abha,535,77610
+OUT,Domestic,2026,May,Al-Bahah,97,10751
+OUT,Domestic,2026,May,Aljouf,135,17496
+OUT,Domestic,2026,May,Alola,27,3676
+OUT,Domestic,2026,May,Arar,99,13281
+OUT,Domestic,2026,May,Bisha,84,10217
+OUT,Domestic,2026,May,Dammam,506,60051
+OUT,Domestic,2026,May,Dawadmi,9,872
+OUT,Domestic,2026,May,Gassim,43,4824
+OUT,Domestic,2026,May,Gizan,346,46166
+OUT,Domestic,2026,May,Guriat,79,10852
+OUT,Domestic,2026,May,Hafr Al-batin,78,9797
+OUT,Domestic,2026,May,Hail,129,15626
+OUT,Domestic,2026,May,Jeddah,2040,306375
+OUT,Domestic,2026,May,Madinah,460,61189
+OUT,Domestic,2026,May,NEOM,22,1385
+OUT,Domestic,2026,May,Najran,205,26681
+OUT,Domestic,2026,May,Rafha,18,2591
+OUT,Domestic,2026,May,Red Sea,51,7270
+OUT,Domestic,2026,May,Sharurah,54,6902
+OUT,Domestic,2026,May,Tabuk,237,32814
+OUT,Domestic,2026,May,Taif,236,29312
+OUT,Domestic,2026,May,Turaif,24,3132
+OUT,Domestic,2026,May,WADI AL-DAWASER,31,3961
+OUT,Domestic,2026,May,Wejh,4,154
+OUT,Domestic,2026,May,Yenbo,31,4186
+IN,Domestic,2026,Jun,Riyadh,5078,689622
+OUT,Domestic,2026,Jun,Abha,507,77265
+OUT,Domestic,2026,Jun,Al-Bahah,94,10928
+OUT,Domestic,2026,Jun,Aljouf,127,15695
+OUT,Domestic,2026,Jun,Alola,15,2412
+OUT,Domestic,2026,Jun,Arar,107,13664
+OUT,Domestic,2026,Jun,Bisha,93,11049
+OUT,Domestic,2026,Jun,Dammam,432,53381
+OUT,Domestic,2026,Jun,Dawadmi,8,460
+OUT,Domestic,2026,Jun,Gassim,45,4665
+OUT,Domestic,2026,Jun,Gizan,376,42032
+OUT,Domestic,2026,Jun,Guriat,75,10658
+OUT,Domestic,2026,Jun,Hafr Al-batin,74,9292
+OUT,Domestic,2026,Jun,Hail,138,15992
+OUT,Domestic,2026,Jun,Jeddah,1717,236191
+OUT,Domestic,2026,Jun,Madinah,383,42651
+OUT,Domestic,2026,Jun,NEOM,26,1519
+OUT,Domestic,2026,Jun,Najran,203,25485
+OUT,Domestic,2026,Jun,Rafha,23,2906
+OUT,Domestic,2026,Jun,Red Sea,30,4784
+OUT,Domestic,2026,Jun,Sharurah,54,6925
+OUT,Domestic,2026,Jun,Tabuk,248,30585
+OUT,Domestic,2026,Jun,Taif,213,25169
+OUT,Domestic,2026,Jun,Turaif,23,2922
+OUT,Domestic,2026,Jun,WADI AL-DAWASER,30,3549
+OUT,Domestic,2026,Jun,Wejh,13,545
+OUT,Domestic,2026,Jun,Yenbo,34,4197
+IN,Domestic,2026,Jul,Riyadh,5966,785317
+OUT,Domestic,2026,Jul,Abha,570,99249
+OUT,Domestic,2026,Jul,Al-Bahah,138,20422
+OUT,Domestic,2026,Jul,Aljouf,163,20353
+OUT,Domestic,2026,Jul,Alola,17,2539
+OUT,Domestic,2026,Jul,Arar,133,16801
+OUT,Domestic,2026,Jul,Bisha,132,19887
+OUT,Domestic,2026,Jul,Dammam,603,61119
+OUT,Domestic,2026,Jul,Dawadmi,9,833
+OUT,Domestic,2026,Jul,Gassim,50,5545
+OUT,Domestic,2026,Jul,Gizan,167,23644
+OUT,Domestic,2026,Jul,Guriat,102,14166
+OUT,Domestic,2026,Jul,Hafr Al-batin,75,10602
+OUT,Domestic,2026,Jul,Hail,187,21359
+OUT,Domestic,2026,Jul,Jeddah,2131,340106
+OUT,Domestic,2026,Jul,Madinah,540,69587
+OUT,Domestic,2026,Jul,NEOM,25,1278
+OUT,Domestic,2026,Jul,Najran,107,13182
+OUT,Domestic,2026,Jul,Rafha,26,3451
+OUT,Domestic,2026,Jul,Red Sea,42,5745
+OUT,Domestic,2026,Jul,Sharurah,54,7153
+OUT,Domestic,2026,Jul,Tabuk,280,34519
+OUT,Domestic,2026,Jul,Taif,276,41501
+OUT,Domestic,2026,Jul,Turaif,31,3960
+OUT,Domestic,2026,Jul,WADI AL-DAWASER,40,5138
+OUT,Domestic,2026,Jul,Wejh,13,654
+OUT,Domestic,2026,Jul,Yenbo,49,4781

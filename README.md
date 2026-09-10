@@ -4,7 +4,7 @@ For this project, I used open data from King Khalid International Airport to loo
 
 I looked at how flight volume changed over the years, which destinations were busiest, and whether there were any noticeable month-to-month patterns.
 
-## Final visual!
+# Final visual!
 
 ![Final visual](visuals/final_report.png)
 
@@ -42,3 +42,8 @@ The dataset included:
 All of the analysis is here:
 
 `notebooks/01_kkia_domestic_flights.ipynb`
+## Data
+
+Source: [King Khalid International Airport Open Data](https://www.kkia.sa/en/opendata)
+
+Dataset: Domestic Flights, 2021–2026

@@ -1,4 +1,4 @@
-# Riyadh Domestic Air Traffic: 2021–2026
+# Riyadh Domestic Air Traffic: 2021-2026
 
 For this project, I used open data from King Khalid International Airport to look at domestic outbound air traffic from Riyadh between 2021 and 2026.
 
